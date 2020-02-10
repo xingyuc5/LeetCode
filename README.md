@@ -13,6 +13,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 #### Easy
 
 - [1. Two Sum](./problems/1.%20Two%20Sum.md)
+- [696. Count Binary Substrings](./problems/696.%20Count%20Binary%20Substrings.md)
 
 #### Medium
 
