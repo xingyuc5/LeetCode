@@ -1,23 +1,19 @@
 int countBinarySubstrings(char *s) {
-    int counts = 0, lastConsecutiveCount = 0, currentConsecutiveCount = 0;
-    char currentStreak = *s;
+    int counts = 0, lastStrLen = 0, currStrLen = 0;
+    char currSign = *s;
+
     while (*s) {
-        if (*s != currentStreak) {
-            counts += (lastConsecutiveCount > currentConsecutiveCount)
-                          ? currentConsecutiveCount
-                          : lastConsecutiveCount;
+        if (*s != currSign) {
+            counts += ((lastStrLen > currStrLen) ? currStrLen : lastStrLen);
 
-            currentStreak = *s;
-            lastConsecutiveCount = currentConsecutiveCount;
-            currentConsecutiveCount = 1;
+            currSign = *s;
+            lastStrLen = currStrLen;
+            currStrLen = 1;
         } else {
-            currentConsecutiveCount++;
+            currStrLen++;
         }
-
         s++;
     }
 
-    return counts + (lastConsecutiveCount > currentConsecutiveCount)
-               ? currentConsecutiveCount
-               : lastConsecutiveCount;
+    return counts + ((lastStrLen > currStrLen) ? currStrLen : lastStrLen);
 }
