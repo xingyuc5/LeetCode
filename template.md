@@ -4,15 +4,7 @@
 
 ## Description
 
-```
-
-```
-
 ## Thoughts
-
-```
-
-```
 
 ## Solution
 
