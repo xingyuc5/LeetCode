@@ -14,8 +14,8 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 
 - [1. Two Sum](./problems/1.%20Two%20Sum.md) :white_check_mark: <sub>10/2/2020</sub>
 - [696. Count Binary Substrings](./problems/696.%20Count%20Binary%20Substrings.md) :white_check_mark: <sub>10/2/2020</sub>
-- [704. Binary Search](https://leetcode.com/problems/binary-search/) :white_large_square:
-- [706. Design HashMap](https://leetcode.com/problems/design-hashmap/) :white_large_square:
+- [704. Binary Search](./problems/704.%20Binary%20Search.md) :white_large_square:
+- [706. Design HashMap](./problems/706.%20Design%20HashMap.md) :white_large_square:
 
 #### Medium
 
