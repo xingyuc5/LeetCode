@@ -4,11 +4,9 @@ int countBinarySubstrings(char *s) {
     // Interate through string until nullbyte is reached
     while (*s) {
         if (*s != currentStreak) {
-            if (currentConsecutiveCount < lastConsecutiveCount) {
-                counts += currentConsecutiveCount;
-            } else {
-                counts += lastConsecutiveCount;
-            }
+            counts += (lastConsecutiveCount > currentConsecutiveCount)
+                          ? currentConsecutiveCount
+                          : lastConsecutiveCount;
 
             currentStreak = *s;
             lastConsecutiveCount = currentConsecutiveCount;
@@ -20,7 +18,7 @@ int countBinarySubstrings(char *s) {
         s++;
     }
 
-    return (lastConsecutiveCount > currentConsecutiveCount)
-               ? counts + currentConsecutiveCount
-               : counts + lastConsecutiveCount;
+    return counts + (lastConsecutiveCount > currentConsecutiveCount)
+               ? currentConsecutiveCount
+               : lastConsecutiveCount;
 }
