@@ -1,0 +1,1 @@
+char* toLowerCase(char* str) { return str; }
