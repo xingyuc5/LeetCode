@@ -6,9 +6,12 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 
 **Start Date: 10/Feb/2020**
 
+[Check Progress by Difficulty](#difficulty)
+[Check Progress by Days](#days)
+
 ---
 
-### Problems by Difficulty
+### Problems by Difficulty <div id="difficulty"></div>
 
 #### Easy
 
@@ -23,3 +26,15 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 #### Medium
 
 #### Hard
+
+---
+
+### Problems by days <div id="days"></div>
+
+- 10/02/2020 | [7. Reverse Integer](./problems/7.%20Reverse%20Integer.md) :white_check_mark:
+- 10/02/2020 | [1. Two Sum](./problems/1.%20Two%20Sum.md) :white_check_mark:
+- 10/02/2020 | [696. Count Binary Substrings](./problems/696.%20Count%20Binary%20Substrings.md) :white_check_mark:
+- 11/02/2020 | [704. Binary Search](./problems/704.%20Binary%20Search.md) :white_check_mark:
+- 12/02/2020 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) :white_check_mark:
+- 12/02/2020 | [709. To Lower Case](./problems/709.%20To%20Lower%20Case.md) :white_check_mark:
+- xx/xx/xxxx | [706. Design HashMap](./problems/706.%20Design%20HashMap.md) :white_large_square:
