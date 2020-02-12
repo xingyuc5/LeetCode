@@ -7,7 +7,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 **Start Date: 10/Feb/2020**
 
 [Check Progress by Difficulty](#difficulty)
-[Check Progress by Days](#days)
+[Check Progress by Dates](#dates)
 
 ---
 
@@ -29,7 +29,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 
 ---
 
-### Problems by days <div id="days"></div>
+### Problems by dates <div id="dates"></div>
 
 - 10/02/2020 | [7. Reverse Integer](./problems/7.%20Reverse%20Integer.md) :white_check_mark:
 - 10/02/2020 | [1. Two Sum](./problems/1.%20Two%20Sum.md) :white_check_mark:
