@@ -25,6 +25,8 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 
 #### Medium
 
+- [678. Valid Parenthesis String](./problems/678.%20Valid%20Parenthesis%20String.md) :white_check_mark: <sub>13/2/2020</sub>
+
 #### Hard
 
 ---
@@ -40,4 +42,6 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - 12/02/2020
   - [21. Merge Two Sorted Lists](./problems/21.%20Merge%20Two%20Sorted%20Lists.md) :white_check_mark:
   - [709. To Lower Case](./problems/709.%20To%20Lower%20Case.md) :white_check_mark:
+- 13/02/2020
+  - [678. Valid Parenthesis String](./problems/678.%20Valid%20Parenthesis%20String.md) :white_check_mark: :heavy_exclamation_mark:
 - xx/xx/xxxx | [706. Design HashMap](./problems/706.%20Design%20HashMap.md) :white_large_square:
