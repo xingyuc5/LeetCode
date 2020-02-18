@@ -13,6 +13,7 @@ file_name = ""
 
 for line in lines:
     line = line.replace("\n", "")
+    line = line.rstrip()
     if counter % 2 == 0:
         file_name = line
         file_name += ". "
