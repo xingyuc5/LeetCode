@@ -1,5 +1,3 @@
-# .
-
 [Link to Question]()
 
 ## Description
