@@ -27,6 +27,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 
 #### Medium
 
+- [0024. Swap Nodes in Pairs](./problems/24.%20Swap%20Nodes%20in%20Pairs.md) :white_check_mark: <sub>18/2/2020</sub>
 - [0678. Valid Parenthesis String](./problems/678.%20Valid%20Parenthesis%20String.md) :white_check_mark: <sub>13/2/2020</sub>
 
 #### Hard
@@ -39,6 +40,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
   - [0706. Design HashMap](./problems/706.%20Design%20HashMap.md) :white_large_square:
 - 18/02/2020
   - [0013. Roman to Integer](./problems/13.%20Roman%20to%20Integer.md) :white_check_mark:
+  - [0024. Swap Nodes in Pairs](./problems/24.%20Swap%20Nodes%20in%20Pairs.md) :white_check_mark: :heavy_exclamation_mark:
 - 17/02/2020
   - [0141. Linked List Cycle](./problems/141.%20Linked%20List%20Cycle.md) :white_check_mark:
 - 13/02/2020
