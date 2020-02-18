@@ -4,6 +4,7 @@ import java.io.IOException;
 import java.io.FileWriter;
 import java.io.PrintWriter;
 
+// Script to create markdown files
 public class Script {
     public static void main(String[] args) {
         // Concate template string
