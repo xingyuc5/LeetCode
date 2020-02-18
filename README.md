@@ -18,6 +18,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [0001. Two Sum](./problems/1.%20Two%20Sum.md) :white_check_mark: <sub>10/2/2020</sub>
 - [0007. Reverse Integer](./problems/7.%20Reverse%20Integer.md) :white_check_mark: <sub>10/2/2020</sub>
 - [0013. Roman to Integer](./problems/13.%20Roman%20to%20Integer.md) :white_check_mark: <sub>18/2/2020</sub>
+- [0014. Longest Common Prefix](./problems/14.%20Longest%20Common%20Prefix.md) :white_check_mark: <sub>18/2/2020</sub>
 - [0021. Merge Two Sorted Lists](./problems/21.%20Merge%20Two%20Sorted%20Lists.md) :white_check_mark: <sub>12/2/2020</sub>
 - [0141. Linked List Cycle](./problems/141.%20Linked%20List%20Cycle.md) :white_check_mark: <sub>17/2/2020</sub>
 - [0696. Count Binary Substrings](./problems/696.%20Count%20Binary%20Substrings.md) :white_check_mark: <sub>10/2/2020</sub>
@@ -41,6 +42,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - 18/02/2020
   - [0013. Roman to Integer](./problems/13.%20Roman%20to%20Integer.md) :white_check_mark:
   - [0024. Swap Nodes in Pairs](./problems/24.%20Swap%20Nodes%20in%20Pairs.md) :white_check_mark: :heavy_exclamation_mark:
+  - [0014. Longest Common Prefix](./problems/14.%20Longest%20Common%20Prefix.md) :white_check_mark:
 - 17/02/2020
   - [0141. Linked List Cycle](./problems/141.%20Linked%20List%20Cycle.md) :white_check_mark:
 - 13/02/2020
