@@ -18,7 +18,7 @@ for line in lines:
         file_name += ". "
     else:
         file_name += line
-        text = open(file_name, 'w')
+        text = open(file_name+".md", 'w')
         text.write("# ")
         text.write(file_name)
         text.write("\n")
