@@ -31,6 +31,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 #### Medium
 
 - [0024. Swap Nodes in Pairs](./problems/24.%20Swap%20Nodes%20in%20Pairs.md) :white_check_mark: <sub>18/02/2020</sub>
+- [0230. Kth Smallest Element in a BST](./problems/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md) :white_check_mark: <sub>21/02/2020</sub>
 - [0678. Valid Parenthesis String](./problems/678.%20Valid%20Parenthesis%20String.md) :white_check_mark: <sub>13/02/2020</sub>
 
 #### Hard
@@ -41,6 +42,8 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 
 - xx/xx/xxxx
   - [0706. Design HashMap](./problems/706.%20Design%20HashMap.md) :white_large_square:
+- 21/02/2020
+  - [0230. Kth Smallest Element in a BST](./problems/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md) :white_check_mark: :heavy_exclamation_mark:
 - 19/02/2020
   - [0020. Valid Parentheses](./problems/20.%20Valid%20Parentheses.md) :white_check_mark:
 - 18/02/2020
