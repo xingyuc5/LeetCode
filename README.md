@@ -22,6 +22,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [0014. Longest Common Prefix](./problems/14.%20Longest%20Common%20Prefix.md) :white_check_mark: <sub>18/02/2020</sub>
 - [0020. Valid Parentheses](./problems/20.%20Valid%20Parentheses.md) :white_check_mark: <sub>19/02/2020</sub>
 - [0021. Merge Two Sorted Lists](./problems/21.%20Merge%20Two%20Sorted%20Lists.md) :white_check_mark: <sub>12/02/2020</sub>
+- [0026. Remove Duplicates from Sorted Array](./problems/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md) :white_check_mark: <sub>22/02/2020</sub>
 - [0141. Linked List Cycle](./problems/141.%20Linked%20List%20Cycle.md) :white_check_mark: <sub>17/02/2020</sub>
 - [0696. Count Binary Substrings](./problems/696.%20Count%20Binary%20Substrings.md) :white_check_mark: <sub>10/02/2020</sub>
 - [0704. Binary Search](./problems/704.%20Binary%20Search.md) :white_check_mark: <sub>11/02/2020</sub>
@@ -42,6 +43,8 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 
 - xx/xx/xxxx
   - [0706. Design HashMap](./problems/706.%20Design%20HashMap.md) :white_large_square:
+- 22/02/2020
+  - [0026. Remove Duplicates from Sorted Array](./problems/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md) :white_check_mark:
 - 21/02/2020
   - [0230. Kth Smallest Element in a BST](./problems/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md) :white_check_mark: :heavy_exclamation_mark:
 - 19/02/2020
