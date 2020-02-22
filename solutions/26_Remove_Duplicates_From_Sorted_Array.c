@@ -1,9 +1,7 @@
 int removeDuplicates(int* nums, int numsSize) {
     // Special case
-    if (numsSize == 0) {
-        return 0;
-    } else if (numsSize == 1) {
-        return 1;
+    if (numsSize == 0 || numsSize == 1) {
+        return numsSize;
     }
 
     // Normal case
