@@ -1,5 +1,6 @@
+import sys
 TEMPLATE_FILE = "template.md"
-QUESTION_FILE = "question.txt"
+QUESTION_FILE =  sys.argv[1]
 
 # Read template string
 template_string = open(TEMPLATE_FILE).read()
