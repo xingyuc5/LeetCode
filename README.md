@@ -32,6 +32,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 
 #### Medium
 
+- [0002. Add Two Numbers](./problems/2.%20Add%20Two%20Numbers.md) :white_check_mark: <sub>23/02/2020</sub>
 - [0024. Swap Nodes in Pairs](./problems/24.%20Swap%20Nodes%20in%20Pairs.md) :white_check_mark: <sub>18/02/2020</sub>
 - [0230. Kth Smallest Element in a BST](./problems/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md) :white_check_mark: <sub>21/02/2020</sub>
 - [0678. Valid Parenthesis String](./problems/678.%20Valid%20Parenthesis%20String.md) :white_check_mark: <sub>13/02/2020</sub>
@@ -46,6 +47,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
   - [0706. Design HashMap](./problems/706.%20Design%20HashMap.md) :white_large_square:
 - 23/02/2020
   - [0027. Remove Element](./problems/27.%20Remove%20Element.md) :white_check_mark:
+  - [0002. Add Two Numbers](./problems/2.%20Add%20Two%20Numbers.md) :white_check_mark: :heavy_exclamation_mark:
 - 22/02/2020
   - [0026. Remove Duplicates from Sorted Array](./problems/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md) :white_check_mark:
 - 21/02/2020
