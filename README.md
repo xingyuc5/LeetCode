@@ -24,6 +24,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [0021. Merge Two Sorted Lists](./problems/21.%20Merge%20Two%20Sorted%20Lists.md) :white_check_mark: <sub>12/02/2020</sub>
 - [0026. Remove Duplicates from Sorted Array](./problems/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md) :white_check_mark: <sub>22/02/2020</sub>
 - [0027. Remove Element](./problems/27.%20Remove%20Element.md) :white_check_mark: <sub>23/02/2020</sub>
+- [0028. Implement strStr()](<./problems/28.%20Implement%20strStr().md>) :white_check_mark: <sub>25/02/2020</sub>
 - [0141. Linked List Cycle](./problems/141.%20Linked%20List%20Cycle.md) :white_check_mark: <sub>17/02/2020</sub>
 - [0696. Count Binary Substrings](./problems/696.%20Count%20Binary%20Substrings.md) :white_check_mark: <sub>10/02/2020</sub>
 - [0704. Binary Search](./problems/704.%20Binary%20Search.md) :white_check_mark: <sub>11/02/2020</sub>
@@ -45,6 +46,8 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 
 - xx/xx/xxxx
   - [0706. Design HashMap](./problems/706.%20Design%20HashMap.md) :white_large_square:
+- 25/02/2020
+  - [0028. Implement strStr()](<./problems/28.%20Implement%20strStr().md>) :white_check_mark:
 - 23/02/2020
   - [0027. Remove Element](./problems/27.%20Remove%20Element.md) :white_check_mark:
   - [0002. Add Two Numbers](./problems/2.%20Add%20Two%20Numbers.md) :white_check_mark: :heavy_exclamation_mark:
