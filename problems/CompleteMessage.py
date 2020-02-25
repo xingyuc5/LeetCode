@@ -8,7 +8,7 @@ final_name = "{:0>4d}. {}".format(q_num, q_name)
 curr_date = time.strftime("%d/%m/%Y", time.localtime())
 
 # By Difficulty
-by_difficulty = "[{}](./problems/{}.md) :white_check_mark: <sub>{}</sub>".format(
+by_difficulty = "[{}](./problems/{}.md) :white_check_mark: <small>{}</small>".format(
     final_name, q, curr_date)
 
 
