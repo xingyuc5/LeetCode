@@ -28,6 +28,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [0035. Search Insert Position](./problems/35.%20Search%20Insert%20Position.md) :white_check_mark: <small>26/02/2020</small>
 - [0038. Count and Say](./problems/38.%20Count%20and%20Say.md) :white_check_mark: <small>27/02/2020</small>
 - [0053. Maximum Subarray](./problems/53.%20Maximum%20Subarray.md) :white_check_mark: <small>28/02/2020</small>
+- [0058. Length of Last Word](./problems/58.%20Length%20of%20Last%20Word.md) :white_check_mark: <small>04/03/2020</small>
 - [0141. Linked List Cycle](./problems/141.%20Linked%20List%20Cycle.md) :white_check_mark: <small>17/02/2020</small>
 - [0696. Count Binary Substrings](./problems/696.%20Count%20Binary%20Substrings.md) :white_check_mark: <small>10/02/2020</small>
 - [0704. Binary Search](./problems/704.%20Binary%20Search.md) :white_check_mark: <small>11/02/2020</small>
@@ -49,6 +50,8 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 
 - xx/xx/xxxx
   - [0706. Design HashMap](./problems/706.%20Design%20HashMap.md) :white_large_square:
+- 04/03/2020
+    - [0058. Length of Last Word](./problems/58.%20Length%20of%20Last%20Word.md) :white_check_mark:
 - 28/02/2020
   - [0053. Maximum Subarray](./problems/53.%20Maximum%20Subarray.md) :white_check_mark: 
 - 27/02/2020
