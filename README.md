@@ -32,6 +32,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [0066. Plus One](./problems/66.%20Plus%20One.md) :white_check_mark: <small>04/03/2020</small>
 - [0067. Add Binary](./problems/67.%20Add%20Binary.md) :white_check_mark: <small>19/03/2020</small>
 - [0100. Same Tree](./problems/100.%20Same%20Tree.md) :white_check_mark: <small>24/03/2020</small>
+- [0101. Symmetric Tree](./problems/101.%20Symmetric%20Tree.md) :white_check_mark: <small>24/03/2020</small>
 - [0141. Linked List Cycle](./problems/141.%20Linked%20List%20Cycle.md) :white_check_mark: <small>17/02/2020</small>
 - [0696. Count Binary Substrings](./problems/696.%20Count%20Binary%20Substrings.md) :white_check_mark: <small>10/02/2020</small>
 - [0704. Binary Search](./problems/704.%20Binary%20Search.md) :white_check_mark: <small>11/02/2020</small>
@@ -55,6 +56,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
   - [0706. Design HashMap](./problems/706.%20Design%20HashMap.md) :white_large_square:
 - 24/03/2020
     - [0100. Same Tree](./problems/100.%20Same%20Tree.md) :white_check_mark: 
+    - [0101. Symmetric Tree](./problems/101.%20Symmetric%20Tree.md) :white_check_mark:
 - 19/03/2020
     - [0067. Add Binary](./problems/67.%20Add%20Binary.md) :white_check_mark: 
 - 04/03/2020
