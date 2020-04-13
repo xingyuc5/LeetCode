@@ -16,35 +16,35 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 
 #### Easy
 
-- [0001. Two Sum](./problems/1.%20Two%20Sum.md) :white_check_mark: <small>10/02/2020</small>
-- [0007. Reverse Integer](./problems/7.%20Reverse%20Integer.md) :white_check_mark: <small>10/02/2020</small>
-- [0013. Roman to Integer](./problems/13.%20Roman%20to%20Integer.md) :white_check_mark: <small>18/02/2020</small>
-- [0014. Longest Common Prefix](./problems/14.%20Longest%20Common%20Prefix.md) :white_check_mark: <small>18/02/2020</small>
-- [0020. Valid Parentheses](./problems/20.%20Valid%20Parentheses.md) :white_check_mark: <small>19/02/2020</small>
-- [0021. Merge Two Sorted Lists](./problems/21.%20Merge%20Two%20Sorted%20Lists.md) :white_check_mark: <small>12/02/2020</small>
-- [0026. Remove Duplicates from Sorted Array](./problems/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md) :white_check_mark: <small>22/02/2020</small>
-- [0027. Remove Element](./problems/27.%20Remove%20Element.md) :white_check_mark: <small>23/02/2020</small>
-- [0028. Implement strStr()](<./problems/28.%20Implement%20strStr().md>) :white_check_mark: <small>25/02/2020</small>
-- [0035. Search Insert Position](./problems/35.%20Search%20Insert%20Position.md) :white_check_mark: <small>26/02/2020</small>
-- [0038. Count and Say](./problems/38.%20Count%20and%20Say.md) :white_check_mark: <small>27/02/2020</small>
-- [0053. Maximum Subarray](./problems/53.%20Maximum%20Subarray.md) :white_check_mark: <small>28/02/2020</small>
-- [0058. Length of Last Word](./problems/58.%20Length%20of%20Last%20Word.md) :white_check_mark: <small>04/03/2020</small>
-- [0066. Plus One](./problems/66.%20Plus%20One.md) :white_check_mark: <small>04/03/2020</small>
-- [0067. Add Binary](./problems/67.%20Add%20Binary.md) :white_check_mark: <small>19/03/2020</small>
-- [0100. Same Tree](./problems/100.%20Same%20Tree.md) :white_check_mark: <small>24/03/2020</small>
-- [0101. Symmetric Tree](./problems/101.%20Symmetric%20Tree.md) :white_check_mark: <small>24/03/2020</small>
-- [0141. Linked List Cycle](./problems/141.%20Linked%20List%20Cycle.md) :white_check_mark: <small>17/02/2020</small>
-- [0696. Count Binary Substrings](./problems/696.%20Count%20Binary%20Substrings.md) :white_check_mark: <small>10/02/2020</small>
-- [0704. Binary Search](./problems/704.%20Binary%20Search.md) :white_check_mark: <small>11/02/2020</small>
-- [0706. Design HashMap](./problems/706.%20Design%20HashMap.md) :white_large_square:
-- [0709. To Lower Case](./problems/709.%20To%20Lower%20Case.md) :white_check_mark: <small>12/02/2020</small>
+- [x] [0001. Two Sum](./problems/1.%20Two%20Sum.md) <small>10/02/2020</small>
+- [x] [0007. Reverse Integer](./problems/7.%20Reverse%20Integer.md) <small>10/02/2020</small>
+- [x] [0013. Roman to Integer](./problems/13.%20Roman%20to%20Integer.md) <small>18/02/2020</small>
+- [x] [0014. Longest Common Prefix](./problems/14.%20Longest%20Common%20Prefix.md) <small>18/02/2020</small>
+- [x] [0020. Valid Parentheses](./problems/20.%20Valid%20Parentheses.md) <small>19/02/2020</small>
+- [x] [0021. Merge Two Sorted Lists](./problems/21.%20Merge%20Two%20Sorted%20Lists.md) <small>12/02/2020</small>
+- [x] [0026. Remove Duplicates from Sorted Array](./problems/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md) <small>22/02/2020</small>
+- [x] [0027. Remove Element](./problems/27.%20Remove%20Element.md) <small>23/02/2020</small>
+- [x] [0028. Implement strStr()](<./problems/28.%20Implement%20strStr().md>) <small>25/02/2020</small>
+- [x] [0035. Search Insert Position](./problems/35.%20Search%20Insert%20Position.md) <small>26/02/2020</small>
+- [x] [0038. Count and Say](./problems/38.%20Count%20and%20Say.md) <small>27/02/2020</small>
+- [x] [0053. Maximum Subarray](./problems/53.%20Maximum%20Subarray.md) <small>28/02/2020</small>
+- [x] [0058. Length of Last Word](./problems/58.%20Length%20of%20Last%20Word.md) <small>04/03/2020</small>
+- [x] [0066. Plus One](./problems/66.%20Plus%20One.md) <small>04/03/2020</small>
+- [x] [0067. Add Binary](./problems/67.%20Add%20Binary.md) <small>19/03/2020</small>
+- [x] [0100. Same Tree](./problems/100.%20Same%20Tree.md) <small>24/03/2020</small>
+- [x] [0101. Symmetric Tree](./problems/101.%20Symmetric%20Tree.md) <small>24/03/2020</small>
+- [x] [0141. Linked List Cycle](./problems/141.%20Linked%20List%20Cycle.md) <small>17/02/2020</small>
+- [x] [0696. Count Binary Substrings](./problems/696.%20Count%20Binary%20Substrings.md) <small>10/02/2020</small>
+- [x] [0704. Binary Search](./problems/704.%20Binary%20Search.md) <small>11/02/2020</small>
+- [ ] [0706. Design HashMap](./problems/706.%20Design%20HashMap.md)
+- [x] [0709. To Lower Case](./problems/709.%20To%20Lower%20Case.md) <small>12/02/2020</small>
 
 #### Medium
 
-- [0002. Add Two Numbers](./problems/2.%20Add%20Two%20Numbers.md) :white_check_mark: <small>23/02/2020</small>
-- [0024. Swap Nodes in Pairs](./problems/24.%20Swap%20Nodes%20in%20Pairs.md) :white_check_mark: <small>18/02/2020</small>
-- [0230. Kth Smallest Element in a BST](./problems/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md) :white_check_mark: <small>21/02/2020</small>
-- [0678. Valid Parenthesis String](./problems/678.%20Valid%20Parenthesis%20String.md) :white_check_mark: <small>13/02/2020</small>
+- [x] [0002. Add Two Numbers](./problems/2.%20Add%20Two%20Numbers.md) <small>23/02/2020</small>
+- [x] [0024. Swap Nodes in Pairs](./problems/24.%20Swap%20Nodes%20in%20Pairs.md) <small>18/02/2020</small>
+- [x] [0230. Kth Smallest Element in a BST](./problems/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md) <small>21/02/2020</small>
+- [x] [0678. Valid Parenthesis String](./problems/678.%20Valid%20Parenthesis%20String.md) <small>13/02/2020</small>
 
 #### Hard
 
@@ -53,45 +53,45 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 ### Problems by dates <div id="dates"></div>
 
 - xx/xx/xxxx
-  - [0706. Design HashMap](./problems/706.%20Design%20HashMap.md) :white_large_square:
+  - [ ] [0706. Design HashMap](./problems/706.%20Design%20HashMap.md)
 - 24/03/2020
-    - [0100. Same Tree](./problems/100.%20Same%20Tree.md) :white_check_mark: 
-    - [0101. Symmetric Tree](./problems/101.%20Symmetric%20Tree.md) :white_check_mark:
+  - [x] [0100. Same Tree](./problems/100.%20Same%20Tree.md)
+  - [x] [0101. Symmetric Tree](./problems/101.%20Symmetric%20Tree.md)
 - 19/03/2020
-    - [0067. Add Binary](./problems/67.%20Add%20Binary.md) :white_check_mark: 
+  - [x] [0067. Add Binary](./problems/67.%20Add%20Binary.md)
 - 04/03/2020
-    - [0058. Length of Last Word](./problems/58.%20Length%20of%20Last%20Word.md) :white_check_mark:
-    - [0066. Plus One](./problems/66.%20Plus%20One.md) :white_check_mark: 
+  - [x] [0058. Length of Last Word](./problems/58.%20Length%20of%20Last%20Word.md)
+  - [x] [0066. Plus One](./problems/66.%20Plus%20One.md)
 - 28/02/2020
-  - [0053. Maximum Subarray](./problems/53.%20Maximum%20Subarray.md) :white_check_mark: 
+  - [x] [0053. Maximum Subarray](./problems/53.%20Maximum%20Subarray.md)
 - 27/02/2020
-  - [0038. Count and Say](./problems/38.%20Count%20and%20Say.md) :white_check_mark: 
+  - [x] [0038. Count and Say](./problems/38.%20Count%20and%20Say.md)
 - 25/02/2020
-  - [0028. Implement strStr()](<./problems/28.%20Implement%20strStr().md>) :white_check_mark:
-  - [0035. Search Insert Position](./problems/35.%20Search%20Insert%20Position.md) :white_check_mark:
+  - [x] [0028. Implement strStr()](<./problems/28.%20Implement%20strStr().md>)
+  - [x] [0035. Search Insert Position](./problems/35.%20Search%20Insert%20Position.md)
 - 23/02/2020
-  - [0027. Remove Element](./problems/27.%20Remove%20Element.md) :white_check_mark:
-  - [0002. Add Two Numbers](./problems/2.%20Add%20Two%20Numbers.md) :white_check_mark: :heavy_exclamation_mark:
+  - [x] [0027. Remove Element](./problems/27.%20Remove%20Element.md)
+  - [x] [0002. Add Two Numbers](./problems/2.%20Add%20Two%20Numbers.md) :heavy_exclamation_mark:
 - 22/02/2020
-  - [0026. Remove Duplicates from Sorted Array](./problems/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md) :white_check_mark:
+  - [x] [0026. Remove Duplicates from Sorted Array](./problems/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
 - 21/02/2020
-  - [0230. Kth Smallest Element in a BST](./problems/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md) :white_check_mark: :heavy_exclamation_mark:
+  - [x] [0230. Kth Smallest Element in a BST](./problems/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md) :heavy_exclamation_mark:
 - 19/02/2020
-  - [0020. Valid Parentheses](./problems/20.%20Valid%20Parentheses.md) :white_check_mark:
+  - [x] [0020. Valid Parentheses](./problems/20.%20Valid%20Parentheses.md)
 - 18/02/2020
-  - [0013. Roman to Integer](./problems/13.%20Roman%20to%20Integer.md) :white_check_mark:
-  - [0024. Swap Nodes in Pairs](./problems/24.%20Swap%20Nodes%20in%20Pairs.md) :white_check_mark: :heavy_exclamation_mark:
-  - [0014. Longest Common Prefix](./problems/14.%20Longest%20Common%20Prefix.md) :white_check_mark:
+  - [x] [0013. Roman to Integer](./problems/13.%20Roman%20to%20Integer.md)
+  - [x] [0024. Swap Nodes in Pairs](./problems/24.%20Swap%20Nodes%20in%20Pairs.md) :heavy_exclamation_mark:
+  - [x] [0014. Longest Common Prefix](./problems/14.%20Longest%20Common%20Prefix.md)
 - 17/02/2020
-  - [0141. Linked List Cycle](./problems/141.%20Linked%20List%20Cycle.md) :white_check_mark:
+  - [x] [0141. Linked List Cycle](./problems/141.%20Linked%20List%20Cycle.md)
 - 13/02/2020
-  - [0678. Valid Parenthesis String](./problems/678.%20Valid%20Parenthesis%20String.md) :white_check_mark: :heavy_exclamation_mark:
+  - [x] [0678. Valid Parenthesis String](./problems/678.%20Valid%20Parenthesis%20String.md) :heavy_exclamation_mark:
 - 12/02/2020
-  - [0021. Merge Two Sorted Lists](./problems/21.%20Merge%20Two%20Sorted%20Lists.md) :white_check_mark:
-  - [0709. To Lower Case](./problems/709.%20To%20Lower%20Case.md) :white_check_mark:
+  - [x] [0021. Merge Two Sorted Lists](./problems/21.%20Merge%20Two%20Sorted%20Lists.md)
+  - [x] [0709. To Lower Case](./problems/709.%20To%20Lower%20Case.md)
 - 11/02/2020
-  - [0704. Binary Search](./problems/704.%20Binary%20Search.md) :white_check_mark:
+  - [x] [0704. Binary Search](./problems/704.%20Binary%20Search.md)
 - 10/02/2020
-  - [0007. Reverse Integer](./problems/7.%20Reverse%20Integer.md) :white_check_mark:
-  - [0001. Two Sum](./problems/1.%20Two%20Sum.md) :white_check_mark:
-  - [0696. Count Binary Substrings](./problems/696.%20Count%20Binary%20Substrings.md) :white_check_mark:
+  - [x] [0007. Reverse Integer](./problems/7.%20Reverse%20Integer.md)
+  - [x] [0001. Two Sum](./problems/1.%20Two%20Sum.md)
+  - [x] [0696. Count Binary Substrings](./problems/696.%20Count%20Binary%20Substrings.md)
