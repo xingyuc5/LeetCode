@@ -13,7 +13,7 @@ by_difficulty = "[{}](./problems/{}.md) <small>{}</small>".format(
 
 
 # By Dates
-by_date = "- [x] [{}](./problems/{}.md)".format(
+by_date = "[{}](./problems/{}.md)".format(
     final_name, q)
 
 
