@@ -6,7 +6,7 @@
 
 ## Solution
 
-Laguages:
+Languages:
 
 - [C](#C)
 - [Python](#python)
