@@ -1,40 +1,26 @@
-import java.util.LinkedList;
-import java.util.List;
-
-//  Definition for a binary tree node. 
-public class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-
-    TreeNode(int x) {
-        val = x;
-    }
-}
-
-//
+/**
+ * Definition for a binary tree node. public class TreeNode { int val; TreeNode
+ * left; TreeNode right; TreeNode(int x) { val = x; } }
+ */
 class Solution {
-    public List<List<Integer>> levelOrderBottom(TreeNode root) {
-        LinkedList<List<Integer>> results = new LinkedList<List<Integer>>();
-        LinkedList<TreeNode> cur_layer_nodes = new LinkedList<TreeNode>();
-        cur_layer_nodes.add(root);
+    public TreeNode sortedArrayToBST(int[] nums) {
+        if (nums == null || nums.length == 0)
+            return null;
 
-        while (!cur_layer_nodes.isEmpty()) {
-            LinkedList<Integer> cur_layer_values = new LinkedList<Integer>();
-            LinkedList<TreeNode> next_layer_nodes = new LinkedList<TreeNode>();
+        TreeNode root = helper(nums, 0, nums.length - 1);
+        return root;
+    }
 
-            for (TreeNode node : cur_layer_nodes) {
-                if (node != null) {
-                    cur_layer_values.add(node.val);
-                    next_layer_nodes.add(node.left);
-                    next_layer_nodes.add(node.right);
-                }
-            }
-            if (!cur_layer_values.isEmpty()) {
-                results.add(0, cur_layer_values);
-            }
-            cur_layer_nodes = next_layer_nodes;
-        }
-        return results;
+    public TreeNode helper(int[] nums, int low, int high) {
+        if (low > high)
+            return null;
+
+        int mid = (low + high) / 2;
+
+        TreeNode node = new TreeNode(nums[mid]);
+        node.left = helper(nums, low, mid - 1);
+        node.right = helper(nums, mid + 1, high);
+
+        return node;
     }
 }
