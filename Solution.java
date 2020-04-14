@@ -1,4 +1,6 @@
+import java.util.LinkedList;
 import java.util.List;
+import java.util.Stack;
 
 // Definition for a binary tree node.
 public class TreeNode {
@@ -12,24 +14,22 @@ public class TreeNode {
 }
 
 class Solution {
-    public List<Integer> inorderTraversal(TreeNode root) {
+    public List<Integer> preorderTraversal(TreeNode root) {
         LinkedList<Integer> results = new LinkedList<Integer>();
+        Stack<TreeNode> nodes = new Stack<TreeNode>();
 
-        traverse(root, results);
+        nodes.add(root);
+
+        while (!nodes.isEmpty()) {
+            TreeNode curr = nodes.pop();
+
+            if (curr != null) {
+                results.add(curr.val);
+                nodes.push(curr.right);
+                nodes.push(curr.left);
+            }
+        }
 
         return results;
-    }
-
-    public void traverse(TreeNode root, List<Integer> results) {
-        if (root == null)
-            return;
-
-        if (root.left != null) {
-            traverse(root.left, results);
-        }
-        results.add(root.val);
-        if (root.right != null) {
-            traverse(root.right, results);
-        }
     }
 }

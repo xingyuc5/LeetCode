@@ -7,7 +7,7 @@ class TreeNode:
 
 
 class Solution:
-    def inorderTraversal(self, root: TreeNode) -> List[int]:
+    def preorderTraversal(self, root: TreeNode) -> List[int]:
         if root == None:
             return None
 
@@ -18,7 +18,7 @@ class Solution:
         if root is None:
             return
 
-        Solution.helper(self, root.left, nodes)
         nodes.append(root.val)
+        Solution.helper(self, root.left, nodes)
         Solution.helper(self, root.right, nodes)
         return nodes
