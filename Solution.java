@@ -14,22 +14,22 @@ public class TreeNode {
 }
 
 class Solution {
-    public List<Integer> preorderTraversal(TreeNode root) {
+    public List<Integer> postorderTraversal(TreeNode root) {
         LinkedList<Integer> results = new LinkedList<Integer>();
         Stack<TreeNode> nodes = new Stack<TreeNode>();
 
-        nodes.add(root);
+        nodes.push(root);
 
         while (!nodes.isEmpty()) {
             TreeNode curr = nodes.pop();
 
             if (curr != null) {
-                results.add(curr.val);
-                nodes.push(curr.right);
+
                 nodes.push(curr.left);
+                nodes.push(curr.right);
+                results.add(0, curr.val);
             }
         }
-
         return results;
     }
 }

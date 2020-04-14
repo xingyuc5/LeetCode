@@ -53,6 +53,8 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 
 #### Hard
 
+- [x] [0145. Binary Tree Postorder Traversal](./problems/145.%20Binary%20Tree%20Postorder%20Traversal.md) <small>14/04/2020</small>
+
 ---
 
 ### Problems by dates <div id="dates"></div>
@@ -62,6 +64,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - 14/04/2020
   - [x] [0094. Binary Tree Inorder Traversal](./problems/94.%20Binary%20Tree%20Inorder%20Traversal.md)
   - [x] [0144. Binary Tree Preorder Traversal](./problems/144.%20Binary%20Tree%20Preorder%20Traversal.md)
+  - [x] [0145. Binary Tree Postorder Traversal](./problems/145.%20Binary%20Tree%20Postorder%20Traversal.md)
 - 13/04/2020
   - [x] [0104. Maximum Depth of Binary Tree](./problems/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)
   - [x] [0107. Binary Tree Level Order Traversal II](./problems/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.md)
