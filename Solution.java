@@ -1,26 +1,35 @@
-/**
- * Definition for a binary tree node. public class TreeNode { int val; TreeNode
- * left; TreeNode right; TreeNode(int x) { val = x; } }
- */
-class Solution {
-    public TreeNode sortedArrayToBST(int[] nums) {
-        if (nums == null || nums.length == 0)
-            return null;
+import java.util.List;
 
-        TreeNode root = helper(nums, 0, nums.length - 1);
-        return root;
+// Definition for a binary tree node.
+public class TreeNode {
+    int val;
+    TreeNode left;
+    TreeNode right;
+
+    TreeNode(int x) {
+        val = x;
+    }
+}
+
+class Solution {
+    public List<Integer> inorderTraversal(TreeNode root) {
+        LinkedList<Integer> results = new LinkedList<Integer>();
+
+        traverse(root, results);
+
+        return results;
     }
 
-    public TreeNode helper(int[] nums, int low, int high) {
-        if (low > high)
-            return null;
+    public void traverse(TreeNode root, List<Integer> results) {
+        if (root == null)
+            return;
 
-        int mid = (low + high) / 2;
-
-        TreeNode node = new TreeNode(nums[mid]);
-        node.left = helper(nums, low, mid - 1);
-        node.right = helper(nums, mid + 1, high);
-
-        return node;
+        if (root.left != null) {
+            traverse(root.left, results);
+        }
+        results.add(root.val);
+        if (root.right != null) {
+            traverse(root.right, results);
+        }
     }
 }

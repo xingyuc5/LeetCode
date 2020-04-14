@@ -7,18 +7,18 @@ class TreeNode:
 
 
 class Solution:
-    def sortedArrayToBST(self, nums: List[int]) -> TreeNode:
-        if not nums:
-            return None
-        root = Solution.recursive_insert(0, len(nums)-1, nums)
-        return root
-
-    def recursive_insert(self, low: int, high: int, nums: List[int]) -> TreeNode:
-        if low > high:
+    def inorderTraversal(self, root: TreeNode) -> List[int]:
+        if root == None:
             return None
 
-        mid = (low + high) // 2
-        node = TreeNode(nums[mid])
-        node.left = Solution.recursive_insert(low, mid-1)
-        node.right = Solution.recursive_insert(mid+1, high)
-        return node
+        nodes = Solution.helper(self, root, [])
+        return nodes
+
+    def helper(self, root: TreeNode, nodes: List):
+        if root is None:
+            return
+
+        Solution.helper(self, root.left, nodes)
+        nodes.append(root.val)
+        Solution.helper(self, root.right, nodes)
+        return nodes
