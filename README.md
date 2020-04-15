@@ -6,6 +6,8 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 
 **Start Date: 10/Feb/2020**
 
+**Progress**: <progress value="34" max="1411"></progress>
+
 [Check Progress by Difficulty](#difficulty)
 
 [Check Progress by Dates](#dates)
