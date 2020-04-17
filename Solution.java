@@ -1,6 +1,7 @@
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Stack;
+import java.util.Math;
 
 // Definition for a binary tree node.
 public class TreeNode {
@@ -14,22 +15,24 @@ public class TreeNode {
 }
 
 class Solution {
-    public List<Integer> postorderTraversal(TreeNode root) {
-        LinkedList<Integer> results = new LinkedList<Integer>();
-        Stack<TreeNode> nodes = new Stack<TreeNode>();
+    public boolean isBalanced(TreeNode root) {
 
-        nodes.push(root);
+        if (root == null)
+            return true;
+        // a tree is balanced if left subtree is balanced
+        // right subtree is balanced
+        // diff in height differs from no more than 1
+        return isBalanced(root.left) && isBalanced(root.right) && Math.abs(height(root.left) - height(root.right)) <= 1;
 
-        while (!nodes.isEmpty()) {
-            TreeNode curr = nodes.pop();
+    }
 
-            if (curr != null) {
+    public int height(TreeNode root) {
+        if (root == null)
+            return 0;
 
-                nodes.push(curr.left);
-                nodes.push(curr.right);
-                results.add(0, curr.val);
-            }
-        }
-        return results;
+        int leftHeight = height(root.left);
+        int rightHeight = height(root.right);
+
+        return (leftHeight > rightHeight) ? (leftHeight + 1) : (rightHeight + 1);
     }
 }
