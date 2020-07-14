@@ -36,6 +36,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0104. Maximum Depth of Binary Tree](./problems/104.%20Maximum%20Depth%20of%20Binary%20Tree.md) <small>13/04/2020</small>
 - [x] [0107. Binary Tree Level Order Traversal II](./problems/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.md) <small>13/04/2020</small>
 - [x] [0108. Convert Sorted Array to Binary Search Tree](./problems/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md) <small>13/04/2020</small>
+- [x] [0111. Minimum Depth of Binary Tree](./problems/111.%20Minimum%20Depth%20of%20Binary%20Tree.md) <small>14/07/2020</small>
 - [x] [0141. Linked List Cycle](./problems/141.%20Linked%20List%20Cycle.md) <small>17/02/2020</small>
 - [x] [0696. Count Binary Substrings](./problems/696.%20Count%20Binary%20Substrings.md) <small>10/02/2020</small>
 - [x] [0704. Binary Search](./problems/704.%20Binary%20Search.md) <small>11/02/2020</small>
@@ -57,6 +58,8 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 
 - xx/xx/xxxx
   - [ ] [0706. Design HashMap](./problems/706.%20Design%20HashMap.md)
+- 14/07/2020
+    - [x] [0111. Minimum Depth of Binary Tree](./problems/111.%20Minimum%20Depth%20of%20Binary%20Tree.md) 
 - 13/04/2020
   - [x] [0104. Maximum Depth of Binary Tree](./problems/104.%20Maximum%20Depth%20of%20Binary%20Tree.md)
   - [x] [0107. Binary Tree Level Order Traversal II](./problems/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.md)
