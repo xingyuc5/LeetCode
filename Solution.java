@@ -1,26 +1,38 @@
-/**
- * Definition for a binary tree node. public class TreeNode { int val; TreeNode
- * left; TreeNode right; TreeNode(int x) { val = x; } }
- */
-class Solution {
-    public TreeNode sortedArrayToBST(int[] nums) {
-        if (nums == null || nums.length == 0)
-            return null;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Stack;
+import java.util.Math;
 
-        TreeNode root = helper(nums, 0, nums.length - 1);
-        return root;
+// Definition for a binary tree node.
+public class TreeNode {
+    int val;
+    TreeNode left;
+    TreeNode right;
+
+    TreeNode(int x) {
+        val = x;
+    }
+}
+
+class Solution {
+    public boolean isBalanced(TreeNode root) {
+
+        if (root == null)
+            return true;
+        // a tree is balanced if left subtree is balanced
+        // right subtree is balanced
+        // diff in height differs from no more than 1
+        return isBalanced(root.left) && isBalanced(root.right) && Math.abs(height(root.left) - height(root.right)) <= 1;
+
     }
 
-    public TreeNode helper(int[] nums, int low, int high) {
-        if (low > high)
-            return null;
+    public int height(TreeNode root) {
+        if (root == null)
+            return 0;
 
-        int mid = (low + high) / 2;
+        int leftHeight = height(root.left);
+        int rightHeight = height(root.right);
 
-        TreeNode node = new TreeNode(nums[mid]);
-        node.left = helper(nums, low, mid - 1);
-        node.right = helper(nums, mid + 1, high);
-
-        return node;
+        return (leftHeight > rightHeight) ? (leftHeight + 1) : (rightHeight + 1);
     }
 }
