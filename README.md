@@ -54,6 +54,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0095. Unique Binary Search Trees II](./problems/95.%20Unique%20Binary%20Search%20Trees%20II.md) <small>15/04/2020</small>
 - [x] [0144. Binary Tree Preorder Traversal](./problems/144.%20Binary%20Tree%20Preorder%20Traversal.md) <small>14/04/2020</small>
 - [x] [0230. Kth Smallest Element in a BST](./problems/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md) <small>21/02/2020</small>
+- [x] [0347. Top K Frequent Elements](./problems/347.%20Top%20K%20Frequent%20Elements.md) <small>17/07/2020</small>
 - [x] [0678. Valid Parenthesis String](./problems/678.%20Valid%20Parenthesis%20String.md) <small>13/02/2020</small>
 
 #### Hard
@@ -66,6 +67,8 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 
 - xx/xx/xxxx
   - [ ] [0706. Design HashMap](./problems/706.%20Design%20HashMap.md)
+- 17/07/2020
+    - [x] [0347. Top K Frequent Elements](./problems/347.%20Top%20K%20Frequent%20Elements.md)
 - 14/07/2020
   - [x] [0111. Minimum Depth of Binary Tree](./problems/111.%20Minimum%20Depth%20of%20Binary%20Tree.md)
 - 17/04/2020
