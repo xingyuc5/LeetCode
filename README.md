@@ -40,7 +40,9 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0108. Convert Sorted Array to Binary Search Tree](./problems/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md) <small>13/04/2020</small>
 - [x] [0110. Balanced Binary Tree](./problems/110.%20Balanced%20Binary%20Tree.md) <small>17/04/2020</small>
 - [x] [0111. Minimum Depth of Binary Tree](./problems/111.%20Minimum%20Depth%20of%20Binary%20Tree.md) <small>14/07/2020</small>
+- [x] [0112. Path Sum](./problems/112.%20Path%20Sum.md) <small>19/07/2020</small>
 - [x] [0141. Linked List Cycle](./problems/141.%20Linked%20List%20Cycle.md) <small>17/02/2020</small>
+- [x] [0226. Invert Binary Treem](./problems/226.%20Invert%20Binary%20Treem.md) <small>19/07/2020</small>
 - [x] [0696. Count Binary Substrings](./problems/696.%20Count%20Binary%20Substrings.md) <small>10/02/2020</small>
 - [x] [0704. Binary Search](./problems/704.%20Binary%20Search.md) <small>11/02/2020</small>
 - [ ] [0706. Design HashMap](./problems/706.%20Design%20HashMap.md)
@@ -67,6 +69,9 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 
 - xx/xx/xxxx
   - [ ] [0706. Design HashMap](./problems/706.%20Design%20HashMap.md)
+- 19/07/2020
+    - [x] [0112. Path Sum](./problems/112.%20Path%20Sum.md)
+    - [x] [0226. Invert Binary Treem](./problems/226.%20Invert%20Binary%20Treem.md) <small>
 - 17/07/2020
     - [x] [0347. Top K Frequent Elements](./problems/347.%20Top%20K%20Frequent%20Elements.md)
 - 14/07/2020
