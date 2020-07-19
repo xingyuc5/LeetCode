@@ -43,6 +43,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0112. Path Sum](./problems/112.%20Path%20Sum.md) <small>19/07/2020</small>
 - [x] [0141. Linked List Cycle](./problems/141.%20Linked%20List%20Cycle.md) <small>17/02/2020</small>
 - [x] [0226. Invert Binary Treem](./problems/226.%20Invert%20Binary%20Treem.md) <small>19/07/2020</small>
+- [x] [0235. Lowest Common Ancestor of a Binary Search Tree](./problems/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md) <small>19/07/2020</small>
 - [x] [0696. Count Binary Substrings](./problems/696.%20Count%20Binary%20Substrings.md) <small>10/02/2020</small>
 - [x] [0704. Binary Search](./problems/704.%20Binary%20Search.md) <small>11/02/2020</small>
 - [ ] [0706. Design HashMap](./problems/706.%20Design%20HashMap.md)
@@ -72,6 +73,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - 19/07/2020
     - [x] [0112. Path Sum](./problems/112.%20Path%20Sum.md)
     - [x] [0226. Invert Binary Treem](./problems/226.%20Invert%20Binary%20Treem.md) <small>
+    - [x] [0235. Lowest Common Ancestor of a Binary Search Tree](./problems/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md) 
 - 17/07/2020
     - [x] [0347. Top K Frequent Elements](./problems/347.%20Top%20K%20Frequent%20Elements.md)
 - 14/07/2020
