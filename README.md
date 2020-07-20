@@ -56,6 +56,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0024. Swap Nodes in Pairs](./problems/24.%20Swap%20Nodes%20in%20Pairs.md) <small>18/02/2020</small>
 - [x] [0094. Binary Tree Inorder Traversal](./problems/94.%20Binary%20Tree%20Inorder%20Traversal.md) <small>14/04/2020</small>
 - [x] [0095. Unique Binary Search Trees II](./problems/95.%20Unique%20Binary%20Search%20Trees%20II.md) <small>15/04/2020</small>
+- [x] [0102. Binary Tree Level Order Traversal](./problems/102.%20Binary%20Tree%20Level%20Order%20Traversal.md) <small>20/07/2020</small>
 - [x] [0144. Binary Tree Preorder Traversal](./problems/144.%20Binary%20Tree%20Preorder%20Traversal.md) <small>14/04/2020</small>
 - [x] [0230. Kth Smallest Element in a BST](./problems/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md) <small>21/02/2020</small>
 - [x] [0347. Top K Frequent Elements](./problems/347.%20Top%20K%20Frequent%20Elements.md) <small>17/07/2020</small>
@@ -73,6 +74,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
   - [ ] [0706. Design HashMap](./problems/706.%20Design%20HashMap.md)
 - 20/07/2020
     - [x] [0257. Binary Tree Paths](./problems/257.%20Binary%20Tree%20Paths.md)
+    - [x] [0102. Binary Tree Level Order Traversal](./problems/102.%20Binary%20Tree%20Level%20Order%20Traversal.md)
 - 19/07/2020
     - [x] [0112. Path Sum](./problems/112.%20Path%20Sum.md)
     - [x] [0226. Invert Binary Treem](./problems/226.%20Invert%20Binary%20Treem.md)
