@@ -45,6 +45,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0226. Invert Binary Treem](./problems/226.%20Invert%20Binary%20Treem.md) <small>19/07/2020</small>
 - [x] [0235. Lowest Common Ancestor of a Binary Search Tree](./problems/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md) <small>19/07/2020</small>
 - [x] [0257. Binary Tree Paths](./problems/257.%20Binary%20Tree%20Paths.md) <small>20/07/2020</small>
+- [x] [0404. Sum of Left Leaves](./problems/404.%20Sum%20of%20Left%20Leaves.md) <small>21/07/2020</small>
 - [x] [0696. Count Binary Substrings](./problems/696.%20Count%20Binary%20Substrings.md) <small>10/02/2020</small>
 - [x] [0704. Binary Search](./problems/704.%20Binary%20Search.md) <small>11/02/2020</small>
 - [ ] [0706. Design HashMap](./problems/706.%20Design%20HashMap.md)
@@ -72,6 +73,8 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 
 - xx/xx/xxxx
   - [ ] [0706. Design HashMap](./problems/706.%20Design%20HashMap.md)
+- 21/07/2020
+    - [x] [0404. Sum of Left Leaves](./problems/404.%20Sum%20of%20Left%20Leaves.md) 
 - 20/07/2020
     - [x] [0257. Binary Tree Paths](./problems/257.%20Binary%20Tree%20Paths.md)
     - [x] [0102. Binary Tree Level Order Traversal](./problems/102.%20Binary%20Tree%20Level%20Order%20Traversal.md)
