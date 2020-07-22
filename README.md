@@ -33,6 +33,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0058. Length of Last Word](./problems/58.%20Length%20of%20Last%20Word.md) <small>04/03/2020</small>
 - [x] [0066. Plus One](./problems/66.%20Plus%20One.md) <small>04/03/2020</small>
 - [x] [0067. Add Binary](./problems/67.%20Add%20Binary.md) <small>19/03/2020</small>
+- [x] [0098. Validate Binary Search Tree](./problems/98.%20Validate%20Binary%20Search%20Tree.md) <small>22/07/2020</small>
 - [x] [0100. Same Tree](./problems/100.%20Same%20Tree.md) <small>24/03/2020</small>
 - [x] [0101. Symmetric Tree](./problems/101.%20Symmetric%20Tree.md) <small>24/03/2020</small>
 - [x] [0104. Maximum Depth of Binary Tree](./problems/104.%20Maximum%20Depth%20of%20Binary%20Tree.md) <small>13/04/2020</small>
@@ -76,6 +77,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
   - [ ] [0706. Design HashMap](./problems/706.%20Design%20HashMap.md)
 - 22/07/2020
     - [x] [0437. Path Sum III](./problems/437.%20Path%20Sum%20III.md)
+    - [x] [0098. Validate Binary Search Tree](./problems/98.%20Validate%20Binary%20Search%20Tree.md)
 - 21/07/2020
     - [x] [0404. Sum of Left Leaves](./problems/404.%20Sum%20of%20Left%20Leaves.md) 
 - 20/07/2020
