@@ -33,7 +33,6 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0058. Length of Last Word](./problems/58.%20Length%20of%20Last%20Word.md) <small>04/03/2020</small>
 - [x] [0066. Plus One](./problems/66.%20Plus%20One.md) <small>04/03/2020</small>
 - [x] [0067. Add Binary](./problems/67.%20Add%20Binary.md) <small>19/03/2020</small>
-- [x] [0098. Validate Binary Search Tree](./problems/98.%20Validate%20Binary%20Search%20Tree.md) <small>22/07/2020</small>
 - [x] [0100. Same Tree](./problems/100.%20Same%20Tree.md) <small>24/03/2020</small>
 - [x] [0101. Symmetric Tree](./problems/101.%20Symmetric%20Tree.md) <small>24/03/2020</small>
 - [x] [0104. Maximum Depth of Binary Tree](./problems/104.%20Maximum%20Depth%20of%20Binary%20Tree.md) <small>13/04/2020</small>
@@ -59,6 +58,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0024. Swap Nodes in Pairs](./problems/24.%20Swap%20Nodes%20in%20Pairs.md) <small>18/02/2020</small>
 - [x] [0094. Binary Tree Inorder Traversal](./problems/94.%20Binary%20Tree%20Inorder%20Traversal.md) <small>14/04/2020</small>
 - [x] [0095. Unique Binary Search Trees II](./problems/95.%20Unique%20Binary%20Search%20Trees%20II.md) <small>15/04/2020</small>
+- [x] [0098. Validate Binary Search Tree](./problems/98.%20Validate%20Binary%20Search%20Tree.md) <small>22/07/2020</small>
 - [x] [0102. Binary Tree Level Order Traversal](./problems/102.%20Binary%20Tree%20Level%20Order%20Traversal.md) <small>20/07/2020</small>
 - [x] [0144. Binary Tree Preorder Traversal](./problems/144.%20Binary%20Tree%20Preorder%20Traversal.md) <small>14/04/2020</small>
 - [x] [0230. Kth Smallest Element in a BST](./problems/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md) <small>21/02/2020</small>
