@@ -67,6 +67,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0347. Top K Frequent Elements](./problems/347.%20Top%20K%20Frequent%20Elements.md) <small>17/07/2020</small>
 - [x] [0429. N-ary Tree Level Order Traversal](./problems/429.%20N-ary%20Tree%20Level%20Order%20Traversal.md) <small>23/07/2020</small>
 - [x] [0678. Valid Parenthesis String](./problems/678.%20Valid%20Parenthesis%20String.md) <small>13/02/2020</small>
+- [x] [0797. All Paths From Source to Target](./problems/797.%20All%20Paths%20From%20Source%20to%20Target.md) <small>24/07/2020</small>
 
 #### Hard
 
@@ -77,10 +78,10 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 ### Problems by dates <div id="dates"></div>
 
 - xx/xx/xxxx
-  - [ ] [0706. Design HashMap
-  - [ ] [](./problems/706.%20Design%20HashMap.md)
+  - [ ] [0706. Design HashMap](./problems/706.%20Design%20HashMap.md)
 - 24/07/2020
     - [x] [0260. Single Number III](./problems/260.%20Single%20Number%20III.md) 
+    - [x] [0797. All Paths From Source to Target](./problems/797.%20All%20Paths%20From%20Source%20to%20Target.md) <small>24/07/2020</small>
 - 23/07/2020
     - [x] [0429. N-ary Tree Level Order Traversal](./problems/429.%20N-ary%20Tree%20Level%20Order%20Traversal.md)
 - 22/07/2020
