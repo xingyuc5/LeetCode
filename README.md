@@ -42,6 +42,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0111. Minimum Depth of Binary Tree](./problems/111.%20Minimum%20Depth%20of%20Binary%20Tree.md) <small>14/07/2020</small>
 - [x] [0112. Path Sum](./problems/112.%20Path%20Sum.md) <small>19/07/2020</small>
 - [x] [0141. Linked List Cycle](./problems/141.%20Linked%20List%20Cycle.md) <small>17/02/2020</small>
+- [x] [0206. Reverse Linked List](./problems/206.%20Reverse%20Linked%20List.md) <small>24/07/2020</small>
 - [x] [0226. Invert Binary Treem](./problems/226.%20Invert%20Binary%20Treem.md) <small>19/07/2020</small>
 - [x] [0235. Lowest Common Ancestor of a Binary Search Tree](./problems/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md) <small>19/07/2020</small>
 - [x] [0257. Binary Tree Paths](./problems/257.%20Binary%20Tree%20Paths.md) <small>20/07/2020</small>
@@ -81,7 +82,8 @@ This repository holds my solutions to LeetCode problems. It records my journey o
   - [ ] [0706. Design HashMap](./problems/706.%20Design%20HashMap.md)
 - 24/07/2020
     - [x] [0260. Single Number III](./problems/260.%20Single%20Number%20III.md) 
-    - [x] [0797. All Paths From Source to Target](./problems/797.%20All%20Paths%20From%20Source%20to%20Target.md) <small>24/07/2020</small>
+    - [x] [0797. All Paths From Source to Target](./problems/797.%20All%20Paths%20From%20Source%20to%20Target.md)
+    - [x] [0206. Reverse Linked List](./problems/206.%20Reverse%20Linked%20List.md)
 - 23/07/2020
     - [x] [0429. N-ary Tree Level Order Traversal](./problems/429.%20N-ary%20Tree%20Level%20Order%20Traversal.md)
 - 22/07/2020
