@@ -51,7 +51,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0589. N-ary Tree Preorder Traversal](./problems/589.%20N-ary%20Tree%20Preorder%20Traversal.md) <small>25/07/2020</small> 
 - [x] [0696. Count Binary Substrings](./problems/696.%20Count%20Binary%20Substrings.md) <small>10/02/2020</small>
 - [x] [0704. Binary Search](./problems/704.%20Binary%20Search.md) <small>11/02/2020</small>
-- [ ] [0706. Design HashMap](./problems/706.%20Design%20HashMap.md)
+- [x] [0706. Design HashMap](./problems/706.%20Design%20HashMap.md) <small>25/07/2020</small>
 - [x] [0709. To Lower Case](./problems/709.%20To%20Lower%20Case.md) <small>12/02/2020</small>
 
 #### Medium
@@ -79,10 +79,9 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 
 ### Problems by dates <div id="dates"></div>
 
-- xx/xx/xxxx
-  - [ ] [0706. Design HashMap](./problems/706.%20Design%20HashMap.md)
 - 25/07/2020
-    - [ ] [0589. N-ary Tree Preorder Traversal](./problems/589.%20N-ary%20Tree%20Preorder%20Traversal.md)
+    - [x] [0589. N-ary Tree Preorder Traversal](./problems/589.%20N-ary%20Tree%20Preorder%20Traversal.md)
+    - [x] [0706. Design HashMap](./problems/706.%20Design%20HashMap.md)
 - 24/07/2020
     - [x] [0260. Single Number III](./problems/260.%20Single%20Number%20III.md) 
     - [x] [0797. All Paths From Source to Target](./problems/797.%20All%20Paths%20From%20Source%20to%20Target.md)
