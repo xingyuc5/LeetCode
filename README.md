@@ -49,6 +49,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0404. Sum of Left Leaves](./problems/404.%20Sum%20of%20Left%20Leaves.md) <small>21/07/2020</small>
 - [x] [0437. Path Sum III](./problems/437.%20Path%20Sum%20III.md) <small>22/07/2020</small>
 - [x] [0589. N-ary Tree Preorder Traversal](./problems/589.%20N-ary%20Tree%20Preorder%20Traversal.md) <small>25/07/2020</small> 
+- [x] [0590. N-ary Tree Postorder Traversal](./problems/590.%20N-ary%20Tree%20Postorder%20Traversal.md) <small>25/07/2020</small>
 - [x] [0696. Count Binary Substrings](./problems/696.%20Count%20Binary%20Substrings.md) <small>10/02/2020</small>
 - [x] [0704. Binary Search](./problems/704.%20Binary%20Search.md) <small>11/02/2020</small>
 - [x] [0706. Design HashMap](./problems/706.%20Design%20HashMap.md) <small>25/07/2020</small>
@@ -82,6 +83,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - 25/07/2020
     - [x] [0589. N-ary Tree Preorder Traversal](./problems/589.%20N-ary%20Tree%20Preorder%20Traversal.md)
     - [x] [0706. Design HashMap](./problems/706.%20Design%20HashMap.md)
+    - [x] [0590. N-ary Tree Postorder Traversal](./problems/590.%20N-ary%20Tree%20Postorder%20Traversal.md)
 - 24/07/2020
     - [x] [0260. Single Number III](./problems/260.%20Single%20Number%20III.md) 
     - [x] [0797. All Paths From Source to Target](./problems/797.%20All%20Paths%20From%20Source%20to%20Target.md)
