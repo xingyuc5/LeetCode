@@ -73,6 +73,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0678. Valid Parenthesis String](./problems/678.%20Valid%20Parenthesis%20String.md) <small>13/02/2020</small>
 - [x] [0797. All Paths From Source to Target](./problems/797.%20All%20Paths%20From%20Source%20to%20Target.md) <small>24/07/2020</small>
 - [x] [0987. Vertical Order Traversal of a Binary Tree](./problems/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.md) <small>25/07/2020</small>
+- [x] [1008. Construct Binary Search Tree from Preorder Traversal](./problems/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.md) <small>27/07/2020</small>
 
 #### Hard
 
@@ -84,6 +85,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 
 - 27/07/2020
     - [x] [0106. Construct Binary Tree from Inorder and Postorder Traversal](./problems/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.md)
+    - [x] [1008. Construct Binary Search Tree from Preorder Traversal](./problems/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.md) 
 - 25/07/2020
     - [x] [0589. N-ary Tree Preorder Traversal](./problems/589.%20N-ary%20Tree%20Preorder%20Traversal.md)
     - [x] [0706. Design HashMap](./problems/706.%20Design%20HashMap.md)
