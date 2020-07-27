@@ -64,6 +64,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0098. Validate Binary Search Tree](./problems/98.%20Validate%20Binary%20Search%20Tree.md) <small>22/07/2020</small>
 - [x] [0102. Binary Tree Level Order Traversal](./problems/102.%20Binary%20Tree%20Level%20Order%20Traversal.md) <small>20/07/2020</small>
 - [x] [0103. Binary Tree Zigzag Level Order Traversal](./problems/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.md) <small>22/07/2020</small>
+- [x] [0106. Construct Binary Tree from Inorder and Postorder Traversal](./problems/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.md) <small>27/07/2020</small>
 - [x] [0144. Binary Tree Preorder Traversal](./problems/144.%20Binary%20Tree%20Preorder%20Traversal.md) <small>14/04/2020</small>
 - [x] [0230. Kth Smallest Element in a BST](./problems/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md) <small>21/02/2020</small>
 - [x] [0260. Single Number III](./problems/260.%20Single%20Number%20III.md) <small>24/07/2020</small>
@@ -81,6 +82,8 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 
 ### Problems by dates <div id="dates"></div>
 
+- 27/07/2020
+    - [x] [0106. Construct Binary Tree from Inorder and Postorder Traversal](./problems/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.md)
 - 25/07/2020
     - [x] [0589. N-ary Tree Preorder Traversal](./problems/589.%20N-ary%20Tree%20Preorder%20Traversal.md)
     - [x] [0706. Design HashMap](./problems/706.%20Design%20HashMap.md)
