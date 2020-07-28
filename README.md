@@ -48,6 +48,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0257. Binary Tree Paths](./problems/257.%20Binary%20Tree%20Paths.md) <small>20/07/2020</small>
 - [x] [0404. Sum of Left Leaves](./problems/404.%20Sum%20of%20Left%20Leaves.md) <small>21/07/2020</small>
 - [x] [0437. Path Sum III](./problems/437.%20Path%20Sum%20III.md) <small>22/07/2020</small>
+- [x] [0572. Subtree of Another Tree](./problems/572.%20Subtree%20of%20Another%20Tree.md) <small>29/07/2020</small>
 - [x] [0589. N-ary Tree Preorder Traversal](./problems/589.%20N-ary%20Tree%20Preorder%20Traversal.md) <small>25/07/2020</small> 
 - [x] [0590. N-ary Tree Postorder Traversal](./problems/590.%20N-ary%20Tree%20Postorder%20Traversal.md) <small>25/07/2020</small>
 - [x] [0696. Count Binary Substrings](./problems/696.%20Count%20Binary%20Substrings.md) <small>10/02/2020</small>
@@ -89,6 +90,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - 28/07/2020
     - [x] [0889. Construct Binary Tree from Preorder and Postorder Traversal](./problems/889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal.md)
     - [x] [0621. Task Scheduler](./problems/621.%20Task%20Scheduler.md)
+    - [x] [0572. Subtree of Another Tree](./problems/572.%20Subtree%20of%20Another%20Tree.md) 
 - 27/07/2020
     - [x] [0106. Construct Binary Tree from Inorder and Postorder Traversal](./problems/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.md)
     - [x] [1008. Construct Binary Search Tree from Preorder Traversal](./problems/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.md) 
