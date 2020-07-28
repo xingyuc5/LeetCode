@@ -71,6 +71,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0260. Single Number III](./problems/260.%20Single%20Number%20III.md) <small>24/07/2020</small>
 - [x] [0347. Top K Frequent Elements](./problems/347.%20Top%20K%20Frequent%20Elements.md) <small>17/07/2020</small>
 - [x] [0429. N-ary Tree Level Order Traversal](./problems/429.%20N-ary%20Tree%20Level%20Order%20Traversal.md) <small>23/07/2020</small>
+- [x] [0621. Task Scheduler](./problems/621.%20Task%20Scheduler.md) <small>28/07/2020</small>
 - [x] [0678. Valid Parenthesis String](./problems/678.%20Valid%20Parenthesis%20String.md) <small>13/02/2020</small>
 - [x] [0797. All Paths From Source to Target](./problems/797.%20All%20Paths%20From%20Source%20to%20Target.md) <small>24/07/2020</small>
 - [x] [0889. Construct Binary Tree from Preorder and Postorder Traversal](./problems/889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal.md) <small>28/07/2020</small>
@@ -87,6 +88,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 
 - 28/07/2020
     - [x] [0889. Construct Binary Tree from Preorder and Postorder Traversal](./problems/889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal.md)
+    - [x] [0621. Task Scheduler](./problems/621.%20Task%20Scheduler.md)
 - 27/07/2020
     - [x] [0106. Construct Binary Tree from Inorder and Postorder Traversal](./problems/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.md)
     - [x] [1008. Construct Binary Search Tree from Preorder Traversal](./problems/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.md) 
