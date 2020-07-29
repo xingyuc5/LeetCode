@@ -55,6 +55,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0704. Binary Search](./problems/704.%20Binary%20Search.md) <small>11/02/2020</small>
 - [x] [0706. Design HashMap](./problems/706.%20Design%20HashMap.md) <small>25/07/2020</small>
 - [x] [0709. To Lower Case](./problems/709.%20To%20Lower%20Case.md) <small>12/02/2020</small>
+- [x] [0965. Univalued Binary Tree](./problems/965.%20Univalued%20Binary%20Tree.md) <small>29/07/2020</small>
 
 #### Medium
 
@@ -87,6 +88,8 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 
 ### Problems by dates <div id="dates"></div>
 
+- 29/07/20
+    - [x] [0965. Univalued Binary Tree](./problems/965.%20Univalued%20Binary%20Tree.md)
 - 28/07/2020
     - [x] [0889. Construct Binary Tree from Preorder and Postorder Traversal](./problems/889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal.md)
     - [x] [0621. Task Scheduler](./problems/621.%20Task%20Scheduler.md)
