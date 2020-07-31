@@ -33,6 +33,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0058. Length of Last Word](./problems/58.%20Length%20of%20Last%20Word.md) <small>04/03/2020</small>
 - [x] [0066. Plus One](./problems/66.%20Plus%20One.md) <small>04/03/2020</small>
 - [x] [0067. Add Binary](./problems/67.%20Add%20Binary.md) <small>19/03/2020</small>
+- [x] [0070. Climbing Stairs](./problems/70.%20Climbing%20Stairs.md) <small>31/07/2020</small>
 - [x] [0100. Same Tree](./problems/100.%20Same%20Tree.md) <small>24/03/2020</small>
 - [x] [0101. Symmetric Tree](./problems/101.%20Symmetric%20Tree.md) <small>24/03/2020</small>
 - [x] [0104. Maximum Depth of Binary Tree](./problems/104.%20Maximum%20Depth%20of%20Binary%20Tree.md) <small>13/04/2020</small>
@@ -89,6 +90,8 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 
 ### Problems by dates <div id="dates"></div>
 
+- 31/07/20
+    - [x] [0070. Climbing Stairs](./problems/70.%20Climbing%20Stairs.md) 
 - 29/07/20
     - [x] [0965. Univalued Binary Tree](./problems/965.%20Univalued%20Binary%20Tree.md)
     - [x] [0814. Binary Tree Pruning](./problems/814.%20Binary%20Tree%20Pruning.md)
