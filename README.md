@@ -50,6 +50,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0257. Binary Tree Paths](./problems/257.%20Binary%20Tree%20Paths.md) <small>20/07/2020</small>
 - [x] [0404. Sum of Left Leaves](./problems/404.%20Sum%20of%20Left%20Leaves.md) <small>21/07/2020</small>
 - [x] [0437. Path Sum III](./problems/437.%20Path%20Sum%20III.md) <small>22/07/2020</small>
+- [x] [0520. Detect Capital](./problems/520.%20Detect%20Capital.md) <small>01/08/2020</small>
 - [x] [0572. Subtree of Another Tree](./problems/572.%20Subtree%20of%20Another%20Tree.md) <small>29/07/2020</small>
 - [x] [0589. N-ary Tree Preorder Traversal](./problems/589.%20N-ary%20Tree%20Preorder%20Traversal.md) <small>25/07/2020</small> 
 - [x] [0590. N-ary Tree Postorder Traversal](./problems/590.%20N-ary%20Tree%20Postorder%20Traversal.md) <small>25/07/2020</small>
@@ -94,6 +95,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 
 - 01/08/20
     - [x] [0069. Sqrt(x)](./problems/69.%20Sqrt(x).md) 
+    - [x] [0520. Detect Capital](./problems/520.%20Detect%20Capital.md)
 - 31/07/20
     - [x] [0070. Climbing Stairs](./problems/70.%20Climbing%20Stairs.md) 
     - [x] [0746. Min Cost Climbing Stairs](./problems/746.%20Min%20Cost%20Climbing%20Stairs.md)
