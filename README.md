@@ -59,6 +59,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0706. Design HashMap](./problems/706.%20Design%20HashMap.md) <small>25/07/2020</small>
 - [x] [0709. To Lower Case](./problems/709.%20To%20Lower%20Case.md) <small>12/02/2020</small>
 - [x] [0746. Min Cost Climbing Stairs](./problems/746.%20Min%20Cost%20Climbing%20Stairs.md) <small>31/07/2020</small>
+- [x] [0872. Leaf-Similar Trees](./problems/872.%20Leaf-Similar%20Trees.md) <small>01/08/2020</small>
 - [x] [0965. Univalued Binary Tree](./problems/965.%20Univalued%20Binary%20Tree.md) <small>29/07/2020</small>
 
 #### Medium
@@ -96,6 +97,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - 01/08/20
     - [x] [0069. Sqrt(x)](./problems/69.%20Sqrt(x).md) 
     - [x] [0520. Detect Capital](./problems/520.%20Detect%20Capital.md)
+    - [x] [0872. Leaf-Similar Trees](./problems/872.%20Leaf-Similar%20Trees.md)
 - 31/07/20
     - [x] [0070. Climbing Stairs](./problems/70.%20Climbing%20Stairs.md) 
     - [x] [0746. Min Cost Climbing Stairs](./problems/746.%20Min%20Cost%20Climbing%20Stairs.md)
