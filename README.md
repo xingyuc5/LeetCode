@@ -43,11 +43,14 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0110. Balanced Binary Tree](./problems/110.%20Balanced%20Binary%20Tree.md) <small>17/04/2020</small>
 - [x] [0111. Minimum Depth of Binary Tree](./problems/111.%20Minimum%20Depth%20of%20Binary%20Tree.md) <small>14/07/2020</small>
 - [x] [0112. Path Sum](./problems/112.%20Path%20Sum.md) <small>19/07/2020</small>
+- [x] [0125. Valid Palindrome](./problems/125.%20Valid%20Palindrome.md) <small>04/08/2020</small>
 - [x] [0141. Linked List Cycle](./problems/141.%20Linked%20List%20Cycle.md) <small>17/02/2020</small>
 - [x] [0206. Reverse Linked List](./problems/206.%20Reverse%20Linked%20List.md) <small>24/07/2020</small>
 - [x] [0226. Invert Binary Treem](./problems/226.%20Invert%20Binary%20Treem.md) <small>19/07/2020</small>
+- [x] [0231. Power of Two](./problems/231.%20Power%20of%20Two.md) <small>04/08/2020</small>
 - [x] [0235. Lowest Common Ancestor of a Binary Search Tree](./problems/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md) <small>19/07/2020</small>
 - [x] [0257. Binary Tree Paths](./problems/257.%20Binary%20Tree%20Paths.md) <small>20/07/2020</small>
+- [x] [0342. Power of Four](./problems/342.%20Power%20of%20Four.md) <small>04/08/2020</small>
 - [x] [0404. Sum of Left Leaves](./problems/404.%20Sum%20of%20Left%20Leaves.md) <small>21/07/2020</small>
 - [x] [0437. Path Sum III](./problems/437.%20Path%20Sum%20III.md) <small>22/07/2020</small>
 - [x] [0520. Detect Capital](./problems/520.%20Detect%20Capital.md) <small>01/08/2020</small>
@@ -94,6 +97,11 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 
 ### Problems by dates <div id="dates"></div>
 
+- 05/08/20
+    - [x] [0231. Power of Two](./problems/231.%20Power%20of%20Two.md)
+    - [x] [0342. Power of Four](./problems/342.%20Power%20of%20Four.md)
+- 04/08/20
+    - [x] [0125. Valid Palindrome](./problems/125.%20Valid%20Palindrome.md)
 - 01/08/20
     - [x] [0069. Sqrt(x)](./problems/69.%20Sqrt(x).md) 
     - [x] [0520. Detect Capital](./problems/520.%20Detect%20Capital.md)
