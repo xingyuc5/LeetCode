@@ -82,6 +82,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0260. Single Number III](./problems/260.%20Single%20Number%20III.md) <small>24/07/2020</small>
 - [x] [0347. Top K Frequent Elements](./problems/347.%20Top%20K%20Frequent%20Elements.md) <small>17/07/2020</small>
 - [x] [0429. N-ary Tree Level Order Traversal](./problems/429.%20N-ary%20Tree%20Level%20Order%20Traversal.md) <small>23/07/2020</small>
+- [x] [0442. Find All Duplicates in an Array](./problems/442.%20Find%20All%20Duplicates%20in%20an%20Array.md) <small>06/08/2020</small>
 - [x] [0621. Task Scheduler](./problems/621.%20Task%20Scheduler.md) <small>28/07/2020</small>
 - [x] [0678. Valid Parenthesis String](./problems/678.%20Valid%20Parenthesis%20String.md) <small>13/02/2020</small>
 - [x] [0797. All Paths From Source to Target](./problems/797.%20All%20Paths%20From%20Source%20to%20Target.md) <small>24/07/2020</small>
@@ -100,7 +101,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 
 - 06/08/20
     - [x] [0114. Flatten Binary Tree to Linked List](./problems/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.md)
-    - [ ] 
+    - [x] [0442. Find All Duplicates in an Array](./problems/442.%20Find%20All%20Duplicates%20in%20an%20Array.md)
 - 05/08/20
     - [x] [0231. Power of Two](./problems/231.%20Power%20of%20Two.md)
     - [x] [0342. Power of Four](./problems/342.%20Power%20of%20Four.md)
