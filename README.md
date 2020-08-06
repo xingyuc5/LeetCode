@@ -43,6 +43,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0110. Balanced Binary Tree](./problems/110.%20Balanced%20Binary%20Tree.md) <small>17/04/2020</small>
 - [x] [0111. Minimum Depth of Binary Tree](./problems/111.%20Minimum%20Depth%20of%20Binary%20Tree.md) <small>14/07/2020</small>
 - [x] [0112. Path Sum](./problems/112.%20Path%20Sum.md) <small>19/07/2020</small>
+- [x] [0114. Flatten Binary Tree to Linked List](./problems/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.md) <small>06/08/2020</small>
 - [x] [0125. Valid Palindrome](./problems/125.%20Valid%20Palindrome.md) <small>04/08/2020</small>
 - [x] [0141. Linked List Cycle](./problems/141.%20Linked%20List%20Cycle.md) <small>17/02/2020</small>
 - [x] [0206. Reverse Linked List](./problems/206.%20Reverse%20Linked%20List.md) <small>24/07/2020</small>
@@ -97,6 +98,9 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 
 ### Problems by dates <div id="dates"></div>
 
+- 06/08/20
+    - [x] [0114. Flatten Binary Tree to Linked List](./problems/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.md)
+    - [ ] 
 - 05/08/20
     - [x] [0231. Power of Two](./problems/231.%20Power%20of%20Two.md)
     - [x] [0342. Power of Four](./problems/342.%20Power%20of%20Four.md)
