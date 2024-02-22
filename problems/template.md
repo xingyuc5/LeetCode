@@ -11,6 +11,7 @@ Languages:
 - [C](#C)
 - [Python](#python)
 - [Java](#java)
+- [JavaScript](#JavaScript)
 
 <div id="C"></div>C Code:
 
@@ -30,4 +31,11 @@ Languages:
 
 ```
 
+<div id="javascript"></div>JavaScript Code:
+
+```javascript
+
+```
+
 [Return to README](./../README.md)
+
