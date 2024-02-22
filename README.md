@@ -95,6 +95,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 #### Hard
 
 - [x] [0145. Binary Tree Postorder Traversal](./problems/145.%20Binary%20Tree%20Postorder%20Traversal.md) <small>14/04/2020</small>
+- [ ] [0023. Merge k Sorted Lists](./problems/23.%20Merge%20k%20Sorted%20Lists.md) <small>14/04/2020</small>
 
 ---
 
