@@ -70,6 +70,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 
 - [x] [0002. Add Two Numbers](./problems/2.%20Add%20Two%20Numbers.md) <small>23/02/2020</small>
 - [x] [0024. Swap Nodes in Pairs](./problems/24.%20Swap%20Nodes%20in%20Pairs.md) <small>18/02/2020</small>
+- [x] [0086. Partition List](./problems/86.%20Partition%20List.md) <small>18/02/2020</small>
 - [x] [0094. Binary Tree Inorder Traversal](./problems/94.%20Binary%20Tree%20Inorder%20Traversal.md) <small>14/04/2020</small>
 - [x] [0095. Unique Binary Search Trees II](./problems/95.%20Unique%20Binary%20Search%20Trees%20II.md) <small>15/04/2020</small>
 - [x] [0098. Validate Binary Search Tree](./problems/98.%20Validate%20Binary%20Search%20Tree.md) <small>22/07/2020</small>
