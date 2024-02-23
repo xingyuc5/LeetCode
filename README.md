@@ -64,13 +64,15 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0709. To Lower Case](./problems/709.%20To%20Lower%20Case.md) <small>12/02/2020</small>
 - [x] [0746. Min Cost Climbing Stairs](./problems/746.%20Min%20Cost%20Climbing%20Stairs.md) <small>31/07/2020</small>
 - [x] [0872. Leaf-Similar Trees](./problems/872.%20Leaf-Similar%20Trees.md) <small>01/08/2020</small>
+- [x] [0876. Middle of the Linked List](./problems/876.%20Middle%20of%20the%20Linked%20List) <small>23/02/2024</small>
 - [x] [0965. Univalued Binary Tree](./problems/965.%20Univalued%20Binary%20Tree.md) <small>29/07/2020</small>
 
 #### Medium
 
 - [x] [0002. Add Two Numbers](./problems/2.%20Add%20Two%20Numbers.md) <small>23/02/2020</small>
+- [x] [0019. Remove Nth Node From End of List](./problems/19.%Remove%20Nth%20Node%20From%20End%20of%20List.md) <small>23/02/2024</small>
 - [x] [0024. Swap Nodes in Pairs](./problems/24.%20Swap%20Nodes%20in%20Pairs.md) <small>18/02/2020</small>
-- [x] [0086. Partition List](./problems/86.%20Partition%20List.md) <small>18/02/2020</small>
+- [x] [0086. Partition List](./problems/86.%20Partition%20List.md) <small>23/02/2024</small>
 - [x] [0094. Binary Tree Inorder Traversal](./problems/94.%20Binary%20Tree%20Inorder%20Traversal.md) <small>14/04/2020</small>
 - [x] [0095. Unique Binary Search Trees II](./problems/95.%20Unique%20Binary%20Search%20Trees%20II.md) <small>15/04/2020</small>
 - [x] [0098. Validate Binary Search Tree](./problems/98.%20Validate%20Binary%20Search%20Tree.md) <small>22/07/2020</small>
@@ -95,12 +97,17 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 #### Hard
 
 - [x] [0145. Binary Tree Postorder Traversal](./problems/145.%20Binary%20Tree%20Postorder%20Traversal.md) <small>14/04/2020</small>
-- [ ] [0023. Merge k Sorted Lists](./problems/23.%20Merge%20k%20Sorted%20Lists.md) <small>14/04/2020</small>
+- [x] [0023. Merge k Sorted Lists](./problems/23.%20Merge%20k%20Sorted%20Lists.md) <small>23/02/2024</small>
 
 ---
 
 ### Problems by dates <div id="dates"></div>
 
+- 23/02/2024
+    - [x] [0023. Merge k Sorted Lists](./problems/23.%20Merge%20k%20Sorted%20Lists.md) 
+    - [x] [0086. Partition List](./problems/86.%20Partition%20List.md)
+    - [x] [0019. Remove Nth Node From End of List](./problems/19.%Remove%20Nth%20Node%20From%20End%20of%20List.md) 
+    - [x] [0876. Middle of the Linked List](./problems/876.%20Middle%20of%20the%20Linked%20List)
 - 06/08/20
     - [x] [0114. Flatten Binary Tree to Linked List](./problems/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.md)
     - [x] [0442. Find All Duplicates in an Array](./problems/442.%20Find%20All%20Duplicates%20in%20an%20Array.md)
