@@ -6,7 +6,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 
 **Start Date: 10/Feb/2020**
 
-**Progress**: <progress value="77" max="1000"></progress>
+**Progress**: <progress value="77" max="1000"></progress> ![](https://progress-bar.dev/7)
 
 [Check Progress by Difficulty](#difficulty)
 
@@ -90,7 +90,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0442. Find All Duplicates in an Array](./problems/442.%20Find%20All%20Duplicates%20in%20an%20Array.md) <small>06/08/2020</small>
 - [x] [0621. Task Scheduler](./problems/621.%20Task%20Scheduler.md) <small>28/07/2020</small>
 - [x] [0678. Valid Parenthesis String](./problems/678.%20Valid%20Parenthesis%20String.md) <small>13/02/2020</small>
-- [x] [0707. Design Linked List](./problems/707. Design%20Linked%20List.md) <small>25/02/2024</small>
+- [x] [0707. Design Linked List](./problems/707.%20Design%20Linked%20List.md) <small>25/02/2024</small>
 - [x] [0797. All Paths From Source to Target](./problems/797.%20All%20Paths%20From%20Source%20to%20Target.md) <small>24/07/2020</small>
 - [x] [0814. Binary Tree Pruning](./problems/814.%20Binary%20Tree%20Pruning.md) <small>29/07/2020</small>
 - [x] [0889. Construct Binary Tree from Preorder and Postorder Traversal](./problems/889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal.md) <small>28/07/2020</small>
