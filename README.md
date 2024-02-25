@@ -108,7 +108,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 
 - 25/02/2024
     - [x] [0160. Intersection of Two Linked Lists](./problems/160.%20Intersection%20of%20Two%20Linked%20Lists.md) 🟢
-    - [x] [0707. Design Linked List](./problems/707. Design%20Linked%20List.md) 🟠
+    - [x] [0707. Design Linked List](./problems/707.%20Design%20Linked%20List.md) 🟠
     - [x] [0147. Insertion Sort List](./problems/147.%20Insertion%20Sort%20List.md) 🟠
 - 23/02/2024
     - [x] [0023. Merge k Sorted Lists](./problems/23.%20Merge%20k%20Sorted%20Lists.md) 
