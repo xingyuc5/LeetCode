@@ -6,7 +6,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 
 **Start Date: 10/Feb/2020**
 
-**Progress**: <progress value="34" max="1411"></progress>
+**Progress**: <progress value="77" max="1000"></progress>
 
 [Check Progress by Difficulty](#difficulty)
 
@@ -46,6 +46,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0114. Flatten Binary Tree to Linked List](./problems/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.md) <small>06/08/2020</small>
 - [x] [0125. Valid Palindrome](./problems/125.%20Valid%20Palindrome.md) <small>04/08/2020</small>
 - [x] [0141. Linked List Cycle](./problems/141.%20Linked%20List%20Cycle.md) <small>17/02/2020</small>
+- [x] [0160. Intersection of Two Linked Lists](./problems/160.%20Intersection%20of%20Two%20Linked%20Lists.md) <small>25/2/2024</small>>
 - [x] [0206. Reverse Linked List](./problems/206.%20Reverse%20Linked%20List.md) <small>24/07/2020</small>
 - [x] [0226. Invert Binary Treem](./problems/226.%20Invert%20Binary%20Treem.md) <small>19/07/2020</small>
 - [x] [0231. Power of Two](./problems/231.%20Power%20of%20Two.md) <small>04/08/2020</small>
@@ -81,6 +82,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0105. Construct Binary Tree from Preorder and Inorder Traversal](./problems/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md) <small>27/07/2020</small>
 - [x] [0106. Construct Binary Tree from Inorder and Postorder Traversal](./problems/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.md) <small>27/07/2020</small>
 - [x] [0144. Binary Tree Preorder Traversal](./problems/144.%20Binary%20Tree%20Preorder%20Traversal.md) <small>14/04/2020</small>
+- [x] [0147. Insertion Sort List](./problems/147.%20Insertion%20Sort%20List.md) <smalle>25/02/2024
 - [x] [0230. Kth Smallest Element in a BST](./problems/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md) <small>21/02/2020</small>
 - [x] [0260. Single Number III](./problems/260.%20Single%20Number%20III.md) <small>24/07/2020</small>
 - [x] [0347. Top K Frequent Elements](./problems/347.%20Top%20K%20Frequent%20Elements.md) <small>17/07/2020</small>
@@ -88,6 +90,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0442. Find All Duplicates in an Array](./problems/442.%20Find%20All%20Duplicates%20in%20an%20Array.md) <small>06/08/2020</small>
 - [x] [0621. Task Scheduler](./problems/621.%20Task%20Scheduler.md) <small>28/07/2020</small>
 - [x] [0678. Valid Parenthesis String](./problems/678.%20Valid%20Parenthesis%20String.md) <small>13/02/2020</small>
+- [x] [0707. Design Linked List](./problems/707. Design%20Linked%20List.md) <small>25/02/2024</small>
 - [x] [0797. All Paths From Source to Target](./problems/797.%20All%20Paths%20From%20Source%20to%20Target.md) <small>24/07/2020</small>
 - [x] [0814. Binary Tree Pruning](./problems/814.%20Binary%20Tree%20Pruning.md) <small>29/07/2020</small>
 - [x] [0889. Construct Binary Tree from Preorder and Postorder Traversal](./problems/889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal.md) <small>28/07/2020</small>
@@ -103,6 +106,10 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 
 ### Problems by dates <div id="dates"></div>
 
+- 25/02/2024
+    - [x] [0160. Intersection of Two Linked Lists](./problems/160.%20Intersection%20of%20Two%20Linked%20Lists.md) 🟢
+    - [x] [0707. Design Linked List](./problems/707. Design%20Linked%20List.md) 🟠
+    - [x] [0147. Insertion Sort List](./problems/147.%20Insertion%20Sort%20List.md) 🟠
 - 23/02/2024
     - [x] [0023. Merge k Sorted Lists](./problems/23.%20Merge%20k%20Sorted%20Lists.md) 
     - [x] [0086. Partition List](./problems/86.%20Partition%20List.md)
