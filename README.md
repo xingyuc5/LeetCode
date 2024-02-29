@@ -74,6 +74,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0019. Remove Nth Node From End of List](./problems/19.%Remove%20Nth%20Node%20From%20End%20of%20List.md) <small>23/02/2024</small>
 - [x] [0024. Swap Nodes in Pairs](./problems/24.%20Swap%20Nodes%20in%20Pairs.md) <small>18/02/2020</small>
 - [x] [0086. Partition List](./problems/86.%20Partition%20List.md) <small>23/02/2024</small>
+- [x] [0092. Reverse Linked List II](./problems/92.%20Reverse%20Linked%20List II.md) <small>01/03/2024</small>
 - [x] [0094. Binary Tree Inorder Traversal](./problems/94.%20Binary%20Tree%20Inorder%20Traversal.md) <small>14/04/2020</small>
 - [x] [0095. Unique Binary Search Trees II](./problems/95.%20Unique%20Binary%20Search%20Trees%20II.md) <small>15/04/2020</small>
 - [x] [0098. Validate Binary Search Tree](./problems/98.%20Validate%20Binary%20Search%20Tree.md) <small>22/07/2020</small>
@@ -105,6 +106,9 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 ---
 
 ### Problems by dates <div id="dates"></div>
+
+- 01/03/2024
+  - [x] [0092. Reverse Linked List II](./problems/92.%20Reverse%20Linked%20List II.md) 🟠
 
 - 25/02/2024
     - [x] [0160. Intersection of Two Linked Lists](./problems/160.%20Intersection%20of%20Two%20Linked%20Lists.md) 🟢
