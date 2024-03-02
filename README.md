@@ -50,6 +50,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0206. Reverse Linked List](./problems/206.%20Reverse%20Linked%20List.md) <small>24/07/2020</small>
 - [x] [0226. Invert Binary Treem](./problems/226.%20Invert%20Binary%20Treem.md) <small>19/07/2020</small>
 - [x] [0231. Power of Two](./problems/231.%20Power%20of%20Two.md) <small>04/08/2020</small>
+- [x] [0234. Palindrome Linked List](./problems/234.%20Palindrome%20Linked%20List.md) <small>03/03/2024</small>
 - [x] [0235. Lowest Common Ancestor of a Binary Search Tree](./problems/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md) <small>19/07/2020</small>
 - [x] [0257. Binary Tree Paths](./problems/257.%20Binary%20Tree%20Paths.md) <small>20/07/2020</small>
 - [x] [0342. Power of Four](./problems/342.%20Power%20of%20Four.md) <small>04/08/2020</small>
@@ -73,6 +74,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0002. Add Two Numbers](./problems/2.%20Add%20Two%20Numbers.md) <small>23/02/2020</small>
 - [x] [0019. Remove Nth Node From End of List](./problems/19.%Remove%20Nth%20Node%20From%20End%20of%20List.md) <small>23/02/2024</small>
 - [x] [0024. Swap Nodes in Pairs](./problems/24.%20Swap%20Nodes%20in%20Pairs.md) <small>18/02/2020</small>
+- [x] [0025. Reverse Nodes in k-Group](./problems/25.%20Reverse%20Nodes%20in%20k-Group.md) <small>03/03/2024</small>
 - [x] [0086. Partition List](./problems/86.%20Partition%20List.md) <small>23/02/2024</small>
 - [x] [0092. Reverse Linked List II](./problems/92.%20Reverse%20Linked%20List II.md) <small>01/03/2024</small>
 - [x] [0094. Binary Tree Inorder Traversal](./problems/94.%20Binary%20Tree%20Inorder%20Traversal.md) <small>14/04/2020</small>
@@ -106,6 +108,10 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 ---
 
 ### Problems by dates <div id="dates"></div>
+
+- 03/03/2024
+  - [x] [0025. Reverse Nodes in k-Group](./problems/25.%20Reverse%20Nodes%20in%20k-Group.md) 🔴
+  - [x] [0234. Palindrome Linked List](./problems/234.%20Palindrome%20Linked%20List.md) 🟢
 
 - 01/03/2024
   - [x] [0092. Reverse Linked List II](./problems/92.%20Reverse%20Linked%20List II.md) 🟠
