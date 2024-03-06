@@ -53,7 +53,9 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0234. Palindrome Linked List](./problems/234.%20Palindrome%20Linked%20List.md) <small>03/03/2024</small>
 - [x] [0235. Lowest Common Ancestor of a Binary Search Tree](./problems/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md) <small>19/07/2020</small>
 - [x] [0257. Binary Tree Paths](./problems/257.%20Binary%20Tree%20Paths.md) <small>20/07/2020</small>
+- [x] [0283. Move Zeroes](./problems/283.%20Move%20Zeroes.md) <small>07/03/2024</small>
 - [x] [0342. Power of Four](./problems/342.%20Power%20of%20Four.md) <small>04/08/2020</small>
+- [x] [0344. Reverse String](./problems/344.%20Reverse%20String.md) <small>07/03/2024</small>
 - [x] [0404. Sum of Left Leaves](./problems/404.%20Sum%20of%20Left%20Leaves.md) <small>21/07/2020</small>
 - [x] [0437. Path Sum III](./problems/437.%20Path%20Sum%20III.md) <small>22/07/2020</small>
 - [x] [0520. Detect Capital](./problems/520.%20Detect%20Capital.md) <small>01/08/2020</small>
@@ -72,6 +74,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 #### Medium
 
 - [x] [0002. Add Two Numbers](./problems/2.%20Add%20Two%20Numbers.md) <small>23/02/2020</small>
+- [x] [0005. Longest Palindromic Substring](./problems/5.%20Longest%20Palindromic%20Substring.md) <small>07/03/2024</small>
 - [x] [0019. Remove Nth Node From End of List](./problems/19.%Remove%20Nth%20Node%20From%20End%20of%20List.md) <small>23/02/2024</small>
 - [x] [0024. Swap Nodes in Pairs](./problems/24.%20Swap%20Nodes%20in%20Pairs.md) <small>18/02/2020</small>
 - [x] [0025. Reverse Nodes in k-Group](./problems/25.%20Reverse%20Nodes%20in%20k-Group.md) <small>03/03/2024</small>
@@ -85,7 +88,8 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0105. Construct Binary Tree from Preorder and Inorder Traversal](./problems/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md) <small>27/07/2020</small>
 - [x] [0106. Construct Binary Tree from Inorder and Postorder Traversal](./problems/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.md) <small>27/07/2020</small>
 - [x] [0144. Binary Tree Preorder Traversal](./problems/144.%20Binary%20Tree%20Preorder%20Traversal.md) <small>14/04/2020</small>
-- [x] [0147. Insertion Sort List](./problems/147.%20Insertion%20Sort%20List.md) <smalle>25/02/2024
+- [x] [0147. Insertion Sort List](./problems/147.%20Insertion%20Sort%20List.md) <small>25/02/2024
+- [x] [0167. Two Sum II - Input Array is Sorted](./problems/167.%20Two%20Sum%20II%20-%20Input%20Array%20is%20Sorted.md) <small>07/03/2024</small>
 - [x] [0230. Kth Smallest Element in a BST](./problems/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md) <small>21/02/2020</small>
 - [x] [0260. Single Number III](./problems/260.%20Single%20Number%20III.md) <small>24/07/2020</small>
 - [x] [0347. Top K Frequent Elements](./problems/347.%20Top%20K%20Frequent%20Elements.md) <small>17/07/2020</small>
@@ -109,6 +113,12 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 
 ### Problems by dates <div id="dates"></div>
 
+- 07/03/2024
+  - [x] [0283. Move Zeroes](./problems/283.%20Move%20Zeroes.md) 🟢
+  - [x] [0344. Reverse String](./problems/344.%20Reverse%20String.md) 🟢
+  - [x] [0167. Two Sum II - Input Array is Sorted](./problems/167.%20Two%20Sum%20II%20-%20Input%20Array%20is%20Sorted.md) 🟠
+  - [x] [0005. Longest Palindromic Substring](./problems/5.%20Longest%20Palindromic%20Substring.md) [0005. Longest Palindromic Substring](./problems/5.%20Longest%20Palindromic%20Substring.md)
+  
 - 03/03/2024
   - [x] [0025. Reverse Nodes in k-Group](./problems/25.%20Reverse%20Nodes%20in%20k-Group.md) 🔴
   - [x] [0234. Palindrome Linked List](./problems/234.%20Palindrome%20Linked%20List.md) 🟢
