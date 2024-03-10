@@ -117,7 +117,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
   - [x] [0283. Move Zeroes](./problems/283.%20Move%20Zeroes.md) 🟢
   - [x] [0344. Reverse String](./problems/344.%20Reverse%20String.md) 🟢
   - [x] [0167. Two Sum II - Input Array is Sorted](./problems/167.%20Two%20Sum%20II%20-%20Input%20Array%20is%20Sorted.md) 🟠
-  - [x] [0005. Longest Palindromic Substring](./problems/5.%20Longest%20Palindromic%20Substring.md) [0005. Longest Palindromic Substring](./problems/5.%20Longest%20Palindromic%20Substring.md)
+  - [x] [0005. Longest Palindromic Substring](./problems/5.%20Longest%20Palindromic%20Substring.md) 🟠
   
 - 03/03/2024
   - [x] [0025. Reverse Nodes in k-Group](./problems/25.%20Reverse%20Nodes%20in%20k-Group.md) 🔴
