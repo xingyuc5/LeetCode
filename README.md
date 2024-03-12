@@ -6,7 +6,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 
 **Start Date: 10/Feb/2020**
 
-**Progress**: <progress value="77" max="1000"></progress> ![](https://progress-bar.dev/7)
+**Progress**: <progress value="77" max="1000"></progress> ![](https://progress-bar.dev/8)
 
 [Check Progress by Difficulty](#difficulty)
 
@@ -54,6 +54,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0235. Lowest Common Ancestor of a Binary Search Tree](./problems/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md) <small>19/07/2020</small>
 - [x] [0257. Binary Tree Paths](./problems/257.%20Binary%20Tree%20Paths.md) <small>20/07/2020</small>
 - [x] [0283. Move Zeroes](./problems/283.%20Move%20Zeroes.md) <small>07/03/2024</small>
+- [x] [0303. Range Sum Query - Immutable](./problems/303.%20Range%20Sum%20Query%20-%20Immutable.md) <small>11/03/2024</small>
 - [x] [0342. Power of Four](./problems/342.%20Power%20of%20Four.md) <small>04/08/2020</small>
 - [x] [0344. Reverse String](./problems/344.%20Reverse%20String.md) <small>07/03/2024</small>
 - [x] [0404. Sum of Left Leaves](./problems/404.%20Sum%20of%20Left%20Leaves.md) <small>21/07/2020</small>
@@ -92,6 +93,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0167. Two Sum II - Input Array is Sorted](./problems/167.%20Two%20Sum%20II%20-%20Input%20Array%20is%20Sorted.md) <small>07/03/2024</small>
 - [x] [0230. Kth Smallest Element in a BST](./problems/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md) <small>21/02/2020</small>
 - [x] [0260. Single Number III](./problems/260.%20Single%20Number%20III.md) <small>24/07/2020</small>
+- [x] [0304. Range Sum Query 2D - Immutable](./problems/304.%20Range%20Sum%20Query%202D%20-%20Immutable.md) <small>11/03/2024</small>
 - [x] [0347. Top K Frequent Elements](./problems/347.%20Top%20K%20Frequent%20Elements.md) <small>17/07/2020</small>
 - [x] [0429. N-ary Tree Level Order Traversal](./problems/429.%20N-ary%20Tree%20Level%20Order%20Traversal.md) <small>23/07/2020</small>
 - [x] [0442. Find All Duplicates in an Array](./problems/442.%20Find%20All%20Duplicates%20in%20an%20Array.md) <small>06/08/2020</small>
@@ -103,6 +105,8 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0889. Construct Binary Tree from Preorder and Postorder Traversal](./problems/889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal.md) <small>28/07/2020</small>
 - [x] [0987. Vertical Order Traversal of a Binary Tree](./problems/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.md) <small>25/07/2020</small>
 - [x] [1008. Construct Binary Search Tree from Preorder Traversal](./problems/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.md) <small>27/07/2020</small>
+- [x] [1094. Car Pooling](./problems/1094.%20Car%20Pooling.md) <small>11/03/2024</small>
+- [x] [1109. Corporate Flight Bookings](./problems/1109.%20Corporate%20Flight%20Bookings.md) <small>11/03/2024</small>
 
 #### Hard
 
@@ -112,6 +116,13 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 ---
 
 ### Problems by dates <div id="dates"></div>
+
+- 13/03/2024
+- 11/03/2024
+  - [x] [0303. Range Sum Query - Immutable](./problems/303.%20Range%20Sum%20Query%20-%Immutable.md) 🟢
+  - [x] [0304. Range Sum Query 2D - Immutable](./problems/304.%20Range%20Sum%20Query%202D%20-%20Immutable.md) 🟠
+  - [x] [1109. Corporate Flight Bookings](./problems/1109.%20Corporate%20Flight%20Bookings.md) 🟠
+  - [x] [1094. Car Pooling](./problems/1094.%20Car%20Pooling.md)
 
 - 07/03/2024
   - [x] [0283. Move Zeroes](./problems/283.%20Move%20Zeroes.md) 🟢
