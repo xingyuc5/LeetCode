@@ -6,7 +6,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 
 **Start Date: 10/Feb/2020**
 
-**Progress**: <progress value="77" max="1000"></progress> ![](https://progress-bar.dev/8)
+**Progress**: 
 
 [Check Progress by Difficulty](#difficulty)
 
@@ -127,7 +127,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
   - [x] [0061. Rotate List](./problems/61.%20Rotate%20List.md) 🟠
   - [x] [0048. Rotate Image](./problems/48.%20Rotate%20Image.md) 🟠
   - [x] [0054. Spiral Matrix](./problems/54.%20Spiral%20Matrix.md) 🟠
-  - [x] [0059. Spiral Matrix II](./problems/59.%20Spiral%20Matrix%20II.md)
+  - [x] [0059. Spiral Matrix II](./problems/59.%20Spiral%20Matrix%20II.md) 🟠
 - 11/03/2024
   - [x] [0303. Range Sum Query - Immutable](./problems/303.%20Range%20Sum%20Query%20-%Immutable.md) 🟢
   - [x] [0304. Range Sum Query 2D - Immutable](./problems/304.%20Range%20Sum%20Query%202D%20-%20Immutable.md) 🟠
