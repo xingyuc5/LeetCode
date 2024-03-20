@@ -75,6 +75,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 #### Medium
 
 - [x] [0002. Add Two Numbers](./problems/2.%20Add%20Two%20Numbers.md) <small>23/02/2020</small>
+- [x] [0003. Longest Substring Without Repeating Characters](./problems/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md) <small>20/03/2024</small>
 - [x] [0005. Longest Palindromic Substring](./problems/5.%20Longest%20Palindromic%20Substring.md) <small>07/03/2024</small>
 - [x] [0019. Remove Nth Node From End of List](./problems/19.%Remove%20Nth%20Node%20From%20End%20of%20List.md) <small>23/02/2024</small>
 - [x] [0024. Swap Nodes in Pairs](./problems/24.%20Swap%20Nodes%20in%20Pairs.md) <small>18/02/2020</small>
@@ -101,7 +102,9 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0304. Range Sum Query 2D - Immutable](./problems/304.%20Range%20Sum%20Query%202D%20-%20Immutable.md) <small>11/03/2024</small>
 - [x] [0347. Top K Frequent Elements](./problems/347.%20Top%20K%20Frequent%20Elements.md) <small>17/07/2020</small>
 - [x] [0429. N-ary Tree Level Order Traversal](./problems/429.%20N-ary%20Tree%20Level%20Order%20Traversal.md) <small>23/07/2020</small>
+- [x] [0438. Find All Anagrams in a String](./problems/438.%20Find%20All%20Anagrams%20in%20a%20String.md) <small>20/03/2024</small>
 - [x] [0442. Find All Duplicates in an Array](./problems/442.%20Find%20All%20Duplicates%20in%20an%20Array.md) <small>06/08/2020</small>
+- [x] [0567. Permutation in String](./problems/567.%20Permutation%20in%20String.md) <small>20/03/2024</small>
 - [x] [0621. Task Scheduler](./problems/621.%20Task%20Scheduler.md) <small>28/07/2020</small>
 - [x] [0678. Valid Parenthesis String](./problems/678.%20Valid%20Parenthesis%20String.md) <small>13/02/2020</small>
 - [x] [0707. Design Linked List](./problems/707.%20Design%20Linked%20List.md) <small>25/02/2024</small>
@@ -115,13 +118,19 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 
 #### Hard
 
-- [x] [0145. Binary Tree Postorder Traversal](./problems/145.%20Binary%20Tree%20Postorder%20Traversal.md) <small>14/04/2020</small>
 - [x] [0023. Merge k Sorted Lists](./problems/23.%20Merge%20k%20Sorted%20Lists.md) <small>23/02/2024</small>
+- [x] [0145. Binary Tree Postorder Traversal](./problems/145.%20Binary%20Tree%20Postorder%20Traversal.md) <small>14/04/2020</small>
+- [x] [0076. Minimum Window Substring](./problems/76.%20Minimum%20Window%20Substring.md) <small>20/03/2024</small>
 
 ---
 
 ### Problems by dates <div id="dates"></div>
 
+- 20/03/2024
+  - [x] [0003. Longest Substring Without Repeating Characters](./problems/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md) 🟠
+  - [x] [0076. Minimum Window Substring](./problems/76.%20Minimum%20Window%20Substring.md) 🔴
+  - [x] [0438. Find All Anagrams in a String](./problems/438.%20Find%20All%20Anagrams%20in%20a%20String.md) 🟠
+  - [x] [0567. Permutation in String](./problems/567.%20Permutation%20in%20String.md) 🟠
 - 13/03/2024
   - [x] [0151. Reverse Words in a String](./problems/151.%20Reverse%20Words%20in%20a%20String.md) 🟠
   - [x] [0061. Rotate List](./problems/61.%20Rotate%20List.md) 🟠
@@ -139,7 +148,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
   - [x] [0344. Reverse String](./problems/344.%20Reverse%20String.md) 🟢
   - [x] [0167. Two Sum II - Input Array is Sorted](./problems/167.%20Two%20Sum%20II%20-%20Input%20Array%20is%20Sorted.md) 🟠
   - [x] [0005. Longest Palindromic Substring](./problems/5.%20Longest%20Palindromic%20Substring.md) 🟠
-  
+
 - 03/03/2024
   - [x] [0025. Reverse Nodes in k-Group](./problems/25.%20Reverse%20Nodes%20in%20k-Group.md) 🔴
   - [x] [0234. Palindrome Linked List](./problems/234.%20Palindrome%20Linked%20List.md) 🟢
