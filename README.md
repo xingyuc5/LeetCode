@@ -80,6 +80,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0019. Remove Nth Node From End of List](./problems/19.%Remove%20Nth%20Node%20From%20End%20of%20List.md) <small>23/02/2024</small>
 - [x] [0024. Swap Nodes in Pairs](./problems/24.%20Swap%20Nodes%20in%20Pairs.md) <small>18/02/2020</small>
 - [x] [0025. Reverse Nodes in k-Group](./problems/25.%20Reverse%20Nodes%20in%20k-Group.md) <small>03/03/2024</small>
+- [x] [0034. Find First and Last Position of Element in Sorted Array](./problems/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md) <small>25/03/2024</small>
 - [x] [0048. Rotate Image](./problems/48.%20Rotate%20Image.md) <small>13/03/2024</small>
 - [x] [0054. Spiral Matrix](./problems/54.%20Spiral%20Matrix.md) <small>13/03/2024</small>
 - [x] [0059. Spiral Matrix II](./problems/59.%20Spiral%20Matrix%20II.md) <small>13/03/2024</small>
@@ -125,6 +126,9 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 ---
 
 ### Problems by dates <div id="dates"></div>
+
+- 25/03/2024
+  - [x] [0034. Find First and Last Position of Element in Sorted Array](./problems/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md) 🟠
 
 - 20/03/2024
   - [x] [0003. Longest Substring Without Repeating Characters](./problems/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md) 🟠
