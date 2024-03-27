@@ -69,6 +69,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0709. To Lower Case](./problems/709.%20To%20Lower%20Case.md) <small>12/02/2020</small>
 - [x] [0746. Min Cost Climbing Stairs](./problems/746.%20Min%20Cost%20Climbing%20Stairs.md) <small>31/07/2020</small>
 - [x] [0872. Leaf-Similar Trees](./problems/872.%20Leaf-Similar%20Trees.md) <small>01/08/2020</small>
+- [x] [0875. Koko Eating Bananas](./problems/875.%20Koko%20Eating%20Bananas.md) <small>27/03/2024</small>
 - [x] [0876. Middle of the Linked List](./problems/876.%20Middle%20of%20the%20Linked%20List) <small>23/02/2024</small>
 - [x] [0965. Univalued Binary Tree](./problems/965.%20Univalued%20Binary%20Tree.md) <small>29/07/2020</small>
 
@@ -114,6 +115,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0889. Construct Binary Tree from Preorder and Postorder Traversal](./problems/889.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Postorder%20Traversal.md) <small>28/07/2020</small>
 - [x] [0987. Vertical Order Traversal of a Binary Tree](./problems/987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.md) <small>25/07/2020</small>
 - [x] [1008. Construct Binary Search Tree from Preorder Traversal](./problems/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.md) <small>27/07/2020</small>
+- [x] [1011. Capacity To Ship Packages Within D Days](./problems/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days.md) <small>27/03/2024</small>
 - [x] [1094. Car Pooling](./problems/1094.%20Car%20Pooling.md) <small>11/03/2024</small>
 - [x] [1109. Corporate Flight Bookings](./problems/1109.%20Corporate%20Flight%20Bookings.md) <small>11/03/2024</small>
 
@@ -122,11 +124,19 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0023. Merge k Sorted Lists](./problems/23.%20Merge%20k%20Sorted%20Lists.md) <small>23/02/2024</small>
 - [x] [0145. Binary Tree Postorder Traversal](./problems/145.%20Binary%20Tree%20Postorder%20Traversal.md) <small>14/04/2020</small>
 - [x] [0076. Minimum Window Substring](./problems/76.%20Minimum%20Window%20Substring.md) <small>20/03/2024</small>
+- [x] [0410. Split Array Largest Sum](./problems/410.%20Split%20Array%20Largest%20Sum.md) <small>27/03/2024</small>
 
 ---
 
 ### Problems by dates <div id="dates"></div>
 
+- 27/03/2024
+  - [x] [0410. Split Array Largest Sum](./problems/410.%20Split%20Array%20Largest%20Sum.md) 🔴
+
+  - [x] [1011. Capacity To Ship Packages Within D Days](./problems/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days.md) 🟠
+  
+  - [x] [0875. Koko Eating Bananas](./problems/875.%20Koko%20Eating%20Bananas.md) 🟠
+  
 - 25/03/2024
   - [x] [0034. Find First and Last Position of Element in Sorted Array](./problems/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md) 🟠
 
