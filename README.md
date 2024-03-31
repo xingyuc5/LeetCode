@@ -185,7 +185,7 @@ pie showdata title LeetCode Progress
   - [x] [0234. Palindrome Linked List](./problems/234.%20Palindrome%20Linked%20List.md) 🟢
 
 - 01/03/2024
-  - [x] [0092. Reverse Linked List II](./problems/92.%20Reverse%20Linked%20List II.md) 🟠
+  - [x] [0092. Reverse Linked List II](./problems/92.%20Reverse%20Linked%20List%20II.md) 🟠
 
 - 25/02/2024
     - [x] [0160. Intersection of Two Linked Lists](./problems/160.%20Intersection%20of%20Two%20Linked%20Lists.md) 🟢
