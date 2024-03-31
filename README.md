@@ -86,6 +86,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0054. Spiral Matrix](./problems/54.%20Spiral%20Matrix.md) <small>13/03/2024</small>
 - [x] [0059. Spiral Matrix II](./problems/59.%20Spiral%20Matrix%20II.md) <small>13/03/2024</small>
 - [x] [0061. Rotate List](./problems/61.%20Rotate%20List.md) <small>13/03/2024</small>
+- [x] [0074. Search a 2D Matrix](./problems/74.%20Search%20a%202D%20Matrix.md) <small>01/04/2024</small>
 - [x] [0086. Partition List](./problems/86.%20Partition%20List.md) <small>23/02/2024</small>
 - [x] [0092. Reverse Linked List II](./problems/92.%20Reverse%20Linked%20List II.md) <small>01/03/2024</small>
 - [x] [0094. Binary Tree Inorder Traversal](./problems/94.%20Binary%20Tree%20Inorder%20Traversal.md) <small>14/04/2020</small>
@@ -96,8 +97,9 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0105. Construct Binary Tree from Preorder and Inorder Traversal](./problems/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.md) <small>27/07/2020</small>
 - [x] [0106. Construct Binary Tree from Inorder and Postorder Traversal](./problems/106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.md) <small>27/07/2020</small>
 - [x] [0144. Binary Tree Preorder Traversal](./problems/144.%20Binary%20Tree%20Preorder%20Traversal.md) <small>14/04/2020</small>
-- [x] [0147. Insertion Sort List](./problems/147.%20Insertion%20Sort%20List.md) <small>25/02/2024
+- [x] [0147. Insertion Sort List](./problems/147.%20Insertion%20Sort%20List.md) <small>25/02/2024</small>
 - [x] [0151. Reverse Words in a String](./problems/151.%20Reverse%20Words%20in%20a%20String.md) <small>13/03/2024</small>
+- [x] [0162. Find Peak Element](./problems/162.%20Find%20Peak%20Element.md) <small>01/04/2024</small>
 - [x] [0167. Two Sum II - Input Array is Sorted](./problems/167.%20Two%20Sum%20II%20-%20Input%20Array%20is%20Sorted.md) <small>07/03/2024</small>
 - [x] [0230. Kth Smallest Element in a BST](./problems/230.%20Kth%20Smallest%20Element%20in%20a%20BST.md) <small>21/02/2020</small>
 - [x] [0260. Single Number III](./problems/260.%20Single%20Number%20III.md) <small>24/07/2020</small>
@@ -108,6 +110,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 - [x] [0442. Find All Duplicates in an Array](./problems/442.%20Find%20All%20Duplicates%20in%20an%20Array.md) <small>06/08/2020</small>
 - [x] [0567. Permutation in String](./problems/567.%20Permutation%20in%20String.md) <small>20/03/2024</small>
 - [x] [0621. Task Scheduler](./problems/621.%20Task%20Scheduler.md) <small>28/07/2020</small>
+- [x] [0658. Find K Closest Elements](./problems/658.%20Find%20K%20Closest%20Elements.md) <small>01/04/2024</small>
 - [x] [0678. Valid Parenthesis String](./problems/678.%20Valid%20Parenthesis%20String.md) <small>13/02/2020</small>
 - [x] [0707. Design Linked List](./problems/707.%20Design%20Linked%20List.md) <small>25/02/2024</small>
 - [x] [0797. All Paths From Source to Target](./problems/797.%20All%20Paths%20From%20Source%20to%20Target.md) <small>24/07/2020</small>
@@ -130,13 +133,20 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 
 ### Problems by dates <div id="dates"></div>
 
+- 01/04/2024
+  - [x] [0074. Search a 2D Matrix](./problems/74.%20Search%20a%202D%20Matrix.md) 🟠
+
+  - [x] [0162. Find Peak Element](./problems/162.%20Find%20Peak%20Element.md) 🟠
+  
+  - [x] [0658. Find K Closest Elements](./problems/658.%20Find%20K%20Closest%20Elements.md) 🟠
+  
 - 27/03/2024
   - [x] [0410. Split Array Largest Sum](./problems/410.%20Split%20Array%20Largest%20Sum.md) 🔴
 
   - [x] [1011. Capacity To Ship Packages Within D Days](./problems/1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days.md) 🟠
-  
+
   - [x] [0875. Koko Eating Bananas](./problems/875.%20Koko%20Eating%20Bananas.md) 🟠
-  
+
 - 25/03/2024
   - [x] [0034. Find First and Last Position of Element in Sorted Array](./problems/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md) 🟠
 
