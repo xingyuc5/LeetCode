@@ -8,6 +8,13 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 
 **Progress**: 
 
+```mermaid
+pie showdata title LeetCode Progress
+	"Easy": 54
+	"Medium": 46
+	"Hard": 4
+```
+
 [Check Progress by Difficulty](#difficulty)
 
 [Check Progress by Dates](#dates)
