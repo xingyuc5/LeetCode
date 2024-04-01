@@ -11,7 +11,7 @@ This repository holds my solutions to LeetCode problems. It records my journey o
 ```mermaid
 pie showdata title LeetCode Progress
 	"Easy": 54
-	"Medium": 46
+	"Medium": 47
 	"Hard": 4
 ```
 
@@ -115,6 +115,7 @@ pie showdata title LeetCode Progress
 - [x] [0429. N-ary Tree Level Order Traversal](./problems/429.%20N-ary%20Tree%20Level%20Order%20Traversal.md) <small>23/07/2020</small>
 - [x] [0438. Find All Anagrams in a String](./problems/438.%20Find%20All%20Anagrams%20in%20a%20String.md) <small>20/03/2024</small>
 - [x] [0442. Find All Duplicates in an Array](./problems/442.%20Find%20All%20Duplicates%20in%20an%20Array.md) <small>06/08/2020</small>
+- [x] [0528. Random Pick with Weight](./problems/528.%20Random%20Pick%20with%20Weight.md) <small>02/04/2024</small>
 - [x] [0567. Permutation in String](./problems/567.%20Permutation%20in%20String.md) <small>20/03/2024</small>
 - [x] [0621. Task Scheduler](./problems/621.%20Task%20Scheduler.md) <small>28/07/2020</small>
 - [x] [0658. Find K Closest Elements](./problems/658.%20Find%20K%20Closest%20Elements.md) <small>01/04/2024</small>
@@ -140,13 +141,16 @@ pie showdata title LeetCode Progress
 
 ### Problems by dates <div id="dates"></div>
 
+- 02/042024
+  - [x] [0528. Random Pick with Weight](./problems/528.%20Random%20Pick%20with%20Weight.md) 🟠
+
 - 01/04/2024
   - [x] [0074. Search a 2D Matrix](./problems/74.%20Search%20a%202D%20Matrix.md) 🟠
 
   - [x] [0162. Find Peak Element](./problems/162.%20Find%20Peak%20Element.md) 🟠
-  
+
   - [x] [0658. Find K Closest Elements](./problems/658.%20Find%20K%20Closest%20Elements.md) 🟠
-  
+
 - 27/03/2024
   - [x] [0410. Split Array Largest Sum](./problems/410.%20Split%20Array%20Largest%20Sum.md) 🔴
 
